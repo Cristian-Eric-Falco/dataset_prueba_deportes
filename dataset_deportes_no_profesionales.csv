@@ -1,0 +1,2501 @@
+ID_Persona,Region,Edad,Genero,Deporte,Frecuencia_Semanal,Duracion_Promedio_min,Nivel,Gasto_Mensual,Satisfaccion
+1,Norte,53,Otro,Running,3,77,Intermedio,9005,5
+2,Centro,16,Otro,Yoga,5,42,Avanzado,21118,5
+3,Centro,40,Otro,Ciclismo,6,136,Avanzado,46228,5
+4,Buenos Aires,39,Otro,Running,5,89,Intermedio,10674,5
+5,CABA,35,M,Running,6,43,Avanzado,14731,5
+6,CABA,42,Otro,Gimnasio,2,89,Intermedio,23540,4
+7,Centro,59,Otro,Natacion,3,42,Principiante,11990,5
+8,Buenos Aires,30,Otro,Yoga,3,74,Principiante,10383,5
+9,Sur,51,Otro,Ciclismo,6,62,Avanzado,35018,5
+10,CABA,53,F,Ciclismo,1,138,Principiante,23107,5
+11,Sur,41,M,Gimnasio,7,61,Avanzado,27676,5
+12,CABA,14,M,Futbol,4,74,Avanzado,18512,5
+13,Norte,46,F,Gimnasio,7,86,Avanzado,34211,5
+14,Norte,64,F,Natacion,5,50,Intermedio,17940,5
+15,CABA,12,M,Ciclismo,5,61,Intermedio,25580,5
+16,Buenos Aires,35,F,Gimnasio,4,63,Intermedio,22708,5
+17,Sur,45,M,Yoga,4,31,Intermedio,19043,5
+18,CABA,14,M,Yoga,2,51,Intermedio,15379,5
+19,CABA,37,M,Futbol,1,82,Principiante,12474,4
+20,Sur,20,F,Gimnasio,2,70,Intermedio,24073,5
+21,CABA,58,Otro,Ciclismo,4,94,Avanzado,38327,5
+22,Centro,25,M,Natacion,5,55,Intermedio,16492,5
+23,Sur,14,M,Yoga,1,47,Principiante,12095,5
+24,Buenos Aires,19,Otro,Natacion,3,30,Principiante,13183,5
+25,Buenos Aires,53,F,Running,4,42,Intermedio,9875,5
+26,CABA,64,Otro,Gimnasio,3,67,Principiante,18272,5
+27,CABA,24,Otro,Natacion,2,50,Intermedio,23088,5
+28,Buenos Aires,31,M,Gimnasio,2,72,Intermedio,26155,5
+29,Norte,32,M,Ciclismo,4,135,Intermedio,25790,5
+30,Centro,67,Otro,Gimnasio,3,74,Principiante,14236,5
+31,Buenos Aires,38,M,Running,3,58,Principiante,6704,5
+32,Norte,19,F,Gimnasio,3,74,Principiante,18346,5
+33,CABA,41,Otro,Yoga,5,74,Avanzado,22803,5
+34,Centro,66,F,Natacion,3,51,Principiante,13336,5
+35,Buenos Aires,68,Otro,Futbol,3,91,Intermedio,15656,5
+36,Sur,40,F,Natacion,5,50,Intermedio,19562,5
+37,Buenos Aires,47,M,Gimnasio,4,81,Intermedio,25616,5
+38,CABA,29,Otro,Running,5,71,Avanzado,15471,5
+39,Centro,20,Otro,Yoga,3,70,Intermedio,20711,5
+40,Sur,50,Otro,Gimnasio,1,66,Principiante,20959,5
+41,Norte,70,Otro,Natacion,7,52,Avanzado,30478,5
+42,CABA,24,Otro,Running,3,33,Intermedio,8378,5
+43,Norte,49,Otro,Yoga,2,44,Principiante,12450,5
+44,Norte,60,Otro,Yoga,6,41,Avanzado,20248,5
+45,Centro,44,Otro,Natacion,2,59,Principiante,12392,5
+46,Norte,42,Otro,Gimnasio,7,52,Avanzado,37194,5
+47,CABA,27,F,Natacion,2,47,Principiante,12198,5
+48,Centro,39,M,Natacion,3,60,Intermedio,19713,5
+49,Norte,31,F,Yoga,7,66,Avanzado,23814,5
+50,Buenos Aires,39,Otro,Natacion,4,46,Avanzado,29011,5
+51,CABA,44,F,Natacion,4,34,Intermedio,19856,5
+52,Centro,47,F,Gimnasio,6,52,Avanzado,33364,5
+53,Buenos Aires,45,Otro,Natacion,5,57,Avanzado,20882,5
+54,Norte,19,M,Natacion,2,31,Principiante,11312,5
+55,Sur,33,M,Ciclismo,1,63,Principiante,20111,5
+56,Buenos Aires,47,Otro,Natacion,4,43,Avanzado,21011,5
+57,Centro,15,M,Gimnasio,4,45,Intermedio,20603,5
+58,Buenos Aires,52,Otro,Futbol,1,70,Principiante,,5
+59,Centro,24,Otro,Natacion,1,55,Principiante,15111,5
+60,Norte,65,M,Gimnasio,6,45,Avanzado,32625,5
+61,Sur,41,Otro,Running,2,83,Principiante,6949,4
+62,Buenos Aires,51,F,Gimnasio,5,88,Avanzado,26585,5
+63,Buenos Aires,32,Otro,Futbol,1,63,Principiante,8485,5
+64,Norte,61,M,Yoga,3,70,Principiante,10860,5
+65,Buenos Aires,47,F,Running,5,53,Intermedio,11303,5
+66,Norte,49,F,Futbol,1,93,Principiante,12250,5
+67,Norte,25,Otro,Running,5,82,Avanzado,12229,5
+68,Centro,21,F,Yoga,2,72,Principiante,12494,5
+69,Norte,28,M,Yoga,5,75,Intermedio,19705,5
+70,Centro,47,F,Yoga,3,53,Intermedio,20581,5
+71,Buenos Aires,32,F,Ciclismo,5,109,Avanzado,43232,5
+72,CABA,26,Otro,Ciclismo,7,122,Avanzado,37126,5
+73,CABA,13,F,Gimnasio,5,46,Intermedio,23707,5
+74,CABA,43,Otro,Natacion,1,53,Principiante,13312,4
+75,Sur,60,M,Yoga,7,69,Avanzado,21958,5
+76,Sur,38,M,Futbol,5,88,Avanzado,20965,5
+77,Norte,53,Otro,Yoga,3,68,Principiante,13845,5
+78,Norte,29,Otro,Natacion,2,30,Intermedio,16084,5
+79,Sur,34,Otro,Natacion,1,48,Principiante,16334,4
+80,CABA,19,Otro,Natacion,5,52,Avanzado,25259,5
+81,CABA,37,M,Yoga,2,72,Principiante,11999,4
+82,Buenos Aires,18,F,Gimnasio,7,60,Avanzado,32266,5
+83,Norte,62,F,Natacion,2,58,Intermedio,23232,5
+84,Buenos Aires,18,Otro,Futbol,5,107,Intermedio,14706,5
+85,Norte,24,Otro,Natacion,2,31,Principiante,16760,5
+86,Centro,49,F,Natacion,2,37,Principiante,13531,4
+87,Centro,41,F,Natacion,6,45,Avanzado,25557,5
+88,Buenos Aires,51,M,Gimnasio,3,59,Principiante,19314,5
+89,CABA,26,M,Ciclismo,4,67,Intermedio,29462,4
+90,Norte,31,F,Gimnasio,1,78,Principiante,17563,5
+91,Norte,41,Otro,Yoga,3,56,Principiante,10785,5
+92,Sur,25,F,Ciclismo,2,119,Intermedio,26597,5
+93,Buenos Aires,47,Otro,Futbol,1,87,Principiante,10304,5
+94,CABA,52,F,Ciclismo,5,129,Intermedio,24446,5
+95,Centro,69,M,Running,1,32,Principiante,8190,5
+96,Centro,54,F,Running,2,48,Principiante,5936,5
+97,CABA,65,M,Yoga,4,69,Intermedio,19091,5
+98,CABA,14,M,Natacion,5,49,Intermedio,18885,5
+99,CABA,43,M,Futbol,2,62,Principiante,12080,5
+100,Buenos Aires,34,Otro,Natacion,3,42,Intermedio,21783,5
+101,Norte,69,Otro,Natacion,7,35,Avanzado,22169,5
+102,Centro,48,F,Ciclismo,5,79,Avanzado,42024,5
+103,CABA,30,F,Natacion,4,45,Intermedio,19385,5
+104,Norte,26,F,Gimnasio,5,81,Intermedio,25837,5
+105,Buenos Aires,41,Otro,Running,2,70,Intermedio,8785,5
+106,Centro,12,Otro,Futbol,2,91,Principiante,11963,4
+107,Sur,18,F,Gimnasio,4,45,Intermedio,28278,5
+108,Norte,25,F,Ciclismo,5,72,Intermedio,28174,5
+109,CABA,41,M,Yoga,3,75,Principiante,14605,4
+110,Norte,59,M,Gimnasio,3,68,Intermedio,23476,5
+111,Sur,18,F,Natacion,3,54,Principiante,12660,5
+112,Norte,24,F,Running,1,55,Principiante,6272,4
+113,Sur,35,Otro,Yoga,2,51,Principiante,10743,4
+114,Centro,42,Otro,Gimnasio,5,82,Intermedio,28342,5
+115,Norte,39,M,Futbol,6,69,Avanzado,16259,5
+116,Buenos Aires,60,M,Futbol,3,117,Principiante,8992,5
+117,CABA,14,M,Natacion,6,53,Avanzado,24708,5
+118,Norte,55,F,Ciclismo,2,132,Intermedio,35612,5
+119,Sur,56,Otro,Running,6,85,Avanzado,15128,5
+120,Buenos Aires,34,M,Yoga,3,70,Principiante,13861,5
+121,Norte,51,Otro,Natacion,3,42,Intermedio,19147,4
+122,Buenos Aires,60,Otro,Natacion,1,47,Principiante,12363,5
+123,Norte,40,F,Running,2,45,Principiante,5600,5
+124,CABA,36,Otro,Running,2,73,Principiante,7195,5
+125,Norte,36,M,Yoga,3,73,Principiante,10377,5
+126,CABA,59,M,Natacion,1,56,Principiante,15399,5
+127,Centro,12,Otro,Ciclismo,4,137,Intermedio,24366,5
+128,Centro,68,Otro,Running,1,73,Principiante,5977,5
+129,Norte,29,Otro,Yoga,4,42,Intermedio,19811,5
+130,Sur,12,M,Futbol,7,86,Avanzado,19802,5
+131,Centro,39,F,Running,3,50,Principiante,7644,5
+132,Centro,27,Otro,Futbol,7,107,Avanzado,23240,5
+133,Buenos Aires,21,F,Yoga,5,43,Intermedio,21203,5
+134,CABA,39,M,Gimnasio,1,73,Principiante,17450,5
+135,CABA,56,M,Yoga,3,66,Intermedio,19859,5
+136,Centro,24,F,Natacion,3,45,Principiante,15138,5
+137,Sur,41,F,Ciclismo,5,100,Avanzado,44593,4
+138,Norte,46,Otro,Natacion,4,40,Intermedio,16092,5
+139,Centro,67,Otro,Running,5,53,Avanzado,13721,5
+140,Norte,21,M,Gimnasio,5,86,Intermedio,20010,5
+141,Norte,40,M,Ciclismo,6,72,Avanzado,43180,5
+142,Norte,49,Otro,Futbol,2,93,Principiante,12321,5
+143,Norte,13,Otro,Ciclismo,6,146,Avanzado,40463,5
+144,Buenos Aires,49,Otro,Natacion,3,41,Principiante,15503,5
+145,Centro,22,M,Ciclismo,2,146,Intermedio,33607,5
+146,Centro,54,Otro,Yoga,2,42,Principiante,11229,5
+147,Buenos Aires,28,F,Ciclismo,5,109,Intermedio,33156,5
+148,Sur,51,F,Ciclismo,2,140,Intermedio,24667,4
+149,Centro,30,F,Gimnasio,3,57,Principiante,19054,5
+150,CABA,62,M,Gimnasio,4,47,Avanzado,37816,5
+151,Norte,56,F,Running,5,74,Intermedio,8396,5
+152,CABA,55,F,Natacion,4,58,Avanzado,30834,5
+153,Centro,46,F,Gimnasio,3,58,Principiante,19707,5
+154,Centro,69,Otro,Futbol,7,104,Avanzado,22403,5
+155,Buenos Aires,14,Otro,Futbol,3,95,Intermedio,15078,5
+156,CABA,18,M,Yoga,5,70,Intermedio,21549,5
+157,CABA,67,Otro,Running,2,64,Principiante,7305,5
+158,CABA,32,M,Futbol,1,106,Principiante,8798,4
+159,Buenos Aires,46,F,Yoga,1,52,Principiante,11468,5
+160,Norte,56,M,Ciclismo,1,131,Principiante,24405,5
+161,Norte,54,Otro,Yoga,3,31,Intermedio,18059,5
+162,CABA,44,F,Ciclismo,4,118,Avanzado,43020,5
+163,Norte,32,F,Yoga,3,46,Principiante,12940,4
+164,CABA,18,Otro,Futbol,6,108,Avanzado,21525,5
+165,Sur,59,M,Gimnasio,2,74,Intermedio,22915,5
+166,Norte,16,Otro,Running,2,88,Principiante,6740,5
+167,Buenos Aires,69,M,Natacion,6,43,Avanzado,24843,5
+168,Norte,54,Otro,Yoga,5,41,Avanzado,26308,5
+169,Norte,70,Otro,Ciclismo,5,130,Intermedio,25542,5
+170,Norte,66,M,Futbol,2,102,Principiante,11319,5
+171,Sur,23,Otro,Yoga,4,65,Avanzado,22822,5
+172,Sur,45,F,Futbol,4,60,Avanzado,17833,5
+173,Centro,37,Otro,Yoga,5,56,Intermedio,14845,5
+174,Norte,56,M,Natacion,2,52,Principiante,13476,5
+175,Norte,32,F,Yoga,2,44,Intermedio,17051,4
+176,CABA,46,Otro,Gimnasio,5,77,Avanzado,28546,5
+177,Centro,50,F,Futbol,5,69,Intermedio,17792,5
+178,Buenos Aires,66,M,Running,5,73,Intermedio,11109,5
+179,Norte,17,Otro,Futbol,6,119,Avanzado,23325,5
+180,Centro,55,Otro,Natacion,5,60,Intermedio,18325,5
+181,CABA,63,F,Running,5,51,Avanzado,11079,5
+182,Buenos Aires,57,Otro,Running,2,55,Intermedio,9055,5
+183,Buenos Aires,14,Otro,Natacion,4,45,Intermedio,22064,5
+184,Centro,14,Otro,Natacion,1,36,Principiante,15366,5
+185,CABA,65,F,Ciclismo,3,126,Principiante,23157,5
+186,Buenos Aires,59,F,Natacion,4,59,Avanzado,20811,5
+187,Norte,47,Otro,Yoga,6,67,Avanzado,27378,5
+188,Buenos Aires,16,Otro,Ciclismo,3,142,Principiante,24155,5
+189,Buenos Aires,61,M,Yoga,3,65,Principiante,14282,5
+190,Buenos Aires,35,Otro,Natacion,1,35,Principiante,,5
+191,Buenos Aires,13,M,Running,4,77,Intermedio,11899,5
+192,Buenos Aires,57,Otro,Yoga,4,42,Intermedio,19601,5
+193,Buenos Aires,34,Otro,Yoga,7,63,Avanzado,22637,5
+194,Centro,60,M,Ciclismo,4,70,Intermedio,31127,4
+195,Norte,36,M,Running,4,88,Avanzado,12317,5
+196,CABA,57,Otro,Natacion,3,55,Principiante,14057,5
+197,CABA,29,F,Ciclismo,7,134,Avanzado,41532,5
+198,Buenos Aires,50,M,Running,2,38,Intermedio,8969,5
+199,Buenos Aires,15,M,Running,1,65,Principiante,7800,4
+200,Sur,31,Otro,Running,2,60,Intermedio,10505,5
+201,CABA,16,M,Ciclismo,5,88,Intermedio,32860,4
+202,CABA,23,Otro,Natacion,4,32,Intermedio,20374,5
+203,CABA,62,Otro,Yoga,3,72,Principiante,11518,5
+204,CABA,53,M,Natacion,3,43,Intermedio,17856,5
+205,CABA,56,M,Ciclismo,3,142,Intermedio,30266,4
+206,CABA,29,M,Ciclismo,1,127,Principiante,20989,5
+207,CABA,43,M,Yoga,4,37,Avanzado,19155,5
+208,CABA,27,Otro,Ciclismo,3,109,Intermedio,30886,4
+209,Sur,16,Otro,Gimnasio,4,48,Avanzado,32800,5
+210,Centro,61,M,Yoga,7,46,Avanzado,20622,5
+211,Sur,66,Otro,Futbol,7,92,Avanzado,19491,5
+212,CABA,62,F,Running,2,53,Intermedio,11358,4
+213,Norte,27,Otro,Gimnasio,4,88,Avanzado,31959,5
+214,Buenos Aires,35,Otro,Futbol,1,98,Principiante,10325,4
+215,Centro,40,F,Futbol,3,60,Intermedio,15232,
+216,Buenos Aires,18,Otro,Ciclismo,4,119,Intermedio,33419,5
+217,Buenos Aires,16,F,Yoga,6,58,Avanzado,23809,5
+218,Norte,45,F,Futbol,6,101,Avanzado,16598,
+219,CABA,64,F,Yoga,2,40,Principiante,12312,5
+220,Buenos Aires,17,M,Natacion,7,59,Avanzado,27692,5
+221,Centro,20,F,Natacion,5,30,Avanzado,30750,4
+222,Norte,14,Otro,Futbol,3,103,Principiante,11723,5
+223,Buenos Aires,18,F,Natacion,2,34,Principiante,13212,5
+224,Norte,15,Otro,Futbol,1,104,Principiante,12058,5
+225,Sur,20,F,Running,2,62,Intermedio,10732,5
+226,Centro,62,F,Ciclismo,5,75,Intermedio,35173,5
+227,CABA,32,Otro,Yoga,1,59,Principiante,12081,4
+228,Norte,48,F,Futbol,3,113,Intermedio,16732,5
+229,Centro,40,Otro,Gimnasio,3,84,Intermedio,24404,5
+230,Buenos Aires,70,Otro,Ciclismo,1,105,Principiante,17911,5
+231,Norte,29,F,Gimnasio,1,59,Principiante,18859,5
+232,Norte,70,F,Ciclismo,1,124,Principiante,19621,
+233,Buenos Aires,25,Otro,Ciclismo,2,106,Principiante,22857,5
+234,Sur,58,Otro,Natacion,2,39,Principiante,15761,5
+235,Sur,20,F,Yoga,6,73,Avanzado,25777,5
+236,Buenos Aires,63,M,Yoga,4,71,Avanzado,26154,5
+237,Norte,57,F,Natacion,1,47,Principiante,16743,5
+238,Sur,25,M,Natacion,4,37,Avanzado,22076,5
+239,CABA,41,Otro,Futbol,1,112,Principiante,8400,4
+240,Buenos Aires,25,Otro,Futbol,4,69,Intermedio,16276,5
+241,Norte,30,F,Natacion,3,48,Principiante,13290,5
+242,Sur,28,F,Natacion,1,37,Principiante,15875,4
+243,Norte,12,Otro,Running,3,47,Intermedio,10263,5
+244,Norte,50,M,Futbol,5,76,Intermedio,15365,5
+245,Sur,55,M,Ciclismo,3,115,Principiante,25059,4
+246,Buenos Aires,64,Otro,Yoga,5,43,Avanzado,25042,5
+247,Norte,15,Otro,Running,4,35,Avanzado,11142,5
+248,Buenos Aires,14,Otro,Natacion,3,38,Principiante,16723,5
+249,Buenos Aires,16,Otro,Futbol,2,83,Principiante,8784,4
+250,CABA,49,F,Running,3,69,Intermedio,11405,5
+251,Buenos Aires,65,F,Running,2,59,Principiante,7268,4
+252,Buenos Aires,23,M,Running,6,83,Avanzado,14986,5
+253,Sur,16,M,Ciclismo,2,85,Principiante,17154,5
+254,CABA,59,M,Ciclismo,3,102,Intermedio,33697,5
+255,Sur,59,Otro,Ciclismo,5,67,Avanzado,37430,5
+256,Centro,34,M,Yoga,6,56,Avanzado,21507,5
+257,Buenos Aires,26,M,Gimnasio,1,72,Principiante,20512,4
+258,Buenos Aires,63,Otro,Gimnasio,2,60,Principiante,16705,5
+259,Buenos Aires,51,M,Futbol,5,95,Intermedio,13159,5
+260,Sur,32,M,Running,4,76,Avanzado,10918,5
+261,Sur,42,Otro,Gimnasio,1,86,Principiante,,4
+262,CABA,49,Otro,Futbol,2,110,Principiante,10250,5
+263,CABA,42,M,Natacion,4,48,Avanzado,,5
+264,Buenos Aires,21,Otro,Yoga,3,65,Intermedio,20609,5
+265,CABA,70,M,Ciclismo,1,61,Principiante,19743,4
+266,Sur,20,M,Ciclismo,3,75,Intermedio,29410,5
+267,Centro,62,M,Yoga,7,36,Avanzado,22255,5
+268,Buenos Aires,62,M,Yoga,1,66,Principiante,14159,5
+269,Centro,49,M,Gimnasio,7,82,Avanzado,30245,5
+270,Centro,20,F,Natacion,2,31,Principiante,11290,5
+271,Norte,58,Otro,Natacion,5,37,Intermedio,21982,5
+272,Sur,47,M,Gimnasio,2,89,Principiante,19331,4
+273,CABA,33,F,Yoga,2,70,Intermedio,18699,5
+274,Centro,70,F,Yoga,3,47,Intermedio,17121,4
+275,Sur,35,F,Gimnasio,5,72,Intermedio,27127,5
+276,Buenos Aires,40,F,Ciclismo,2,103,Intermedio,27546,4
+277,Centro,15,F,Ciclismo,1,109,Principiante,20135,4
+278,Buenos Aires,59,M,Yoga,5,40,Avanzado,22407,5
+279,Norte,56,F,Ciclismo,4,83,Intermedio,29084,5
+280,Sur,17,Otro,Yoga,4,50,Avanzado,26753,4
+281,Centro,54,Otro,Futbol,2,71,Principiante,8885,5
+282,Norte,26,F,Futbol,2,99,Intermedio,16896,4
+283,CABA,54,M,Yoga,1,49,Principiante,,5
+284,Sur,24,Otro,Yoga,2,74,Principiante,15054,5
+285,Sur,37,Otro,Gimnasio,6,78,Avanzado,28966,5
+286,CABA,50,Otro,Running,7,55,Avanzado,11306,5
+287,Sur,26,F,Natacion,1,51,Principiante,12553,5
+288,CABA,50,M,Running,3,47,Intermedio,11257,5
+289,Buenos Aires,39,F,Ciclismo,7,89,Avanzado,33221,5
+290,Norte,60,F,Natacion,1,47,Principiante,13070,4
+291,Centro,50,F,Yoga,3,64,Principiante,11104,5
+292,Buenos Aires,45,F,Futbol,1,91,Principiante,11920,5
+293,CABA,21,F,Ciclismo,5,105,Avanzado,40180,5
+294,Norte,12,M,Running,7,67,Avanzado,13048,5
+295,Centro,41,Otro,Ciclismo,5,150,Avanzado,34587,5
+296,Buenos Aires,55,M,Futbol,4,80,Intermedio,13525,5
+297,CABA,60,Otro,Natacion,3,46,Principiante,,5
+298,Centro,56,M,Gimnasio,3,83,Principiante,20170,5
+299,Centro,26,M,Yoga,2,50,Principiante,,5
+300,Norte,29,Otro,Futbol,5,92,Intermedio,12471,5
+301,Sur,16,F,Running,5,75,Avanzado,14032,5
+302,CABA,46,M,Running,2,49,Intermedio,10029,5
+303,CABA,60,F,Ciclismo,1,144,Principiante,24598,4
+304,CABA,22,Otro,Natacion,3,40,Principiante,12149,5
+305,CABA,31,F,Ciclismo,2,90,Principiante,19275,4
+306,CABA,38,M,Running,4,75,Intermedio,11180,5
+307,Buenos Aires,41,M,Natacion,5,51,Intermedio,17431,5
+308,Norte,63,Otro,Natacion,7,56,Avanzado,22358,5
+309,Sur,33,M,Ciclismo,1,96,Principiante,21880,5
+310,Norte,31,M,Yoga,1,37,Principiante,10295,5
+311,Norte,45,Otro,Gimnasio,5,61,Intermedio,24915,5
+312,Norte,58,Otro,Natacion,3,31,Intermedio,18361,5
+313,Norte,69,Otro,Gimnasio,7,64,Avanzado,30425,5
+314,Buenos Aires,67,M,Natacion,6,40,Avanzado,30975,5
+315,CABA,19,F,Futbol,5,73,Avanzado,15977,5
+316,Centro,15,F,Gimnasio,5,90,Intermedio,29072,5
+317,Buenos Aires,23,M,Futbol,5,111,Avanzado,21490,5
+318,Sur,54,Otro,Futbol,3,60,Principiante,10996,5
+319,Norte,64,F,Gimnasio,3,67,Intermedio,,5
+320,Buenos Aires,27,M,Yoga,2,66,Principiante,12457,4
+321,Norte,58,Otro,Gimnasio,6,83,Avanzado,27246,5
+322,Norte,40,Otro,Yoga,7,42,Avanzado,26363,5
+323,Centro,42,M,Futbol,7,79,Avanzado,22077,5
+324,CABA,22,M,Ciclismo,4,60,Avanzado,37486,5
+325,CABA,26,M,Gimnasio,2,90,Principiante,20789,4
+326,Norte,34,Otro,Running,1,60,Principiante,6569,5
+327,Centro,35,F,Yoga,1,40,Principiante,11831,5
+328,Centro,33,M,Ciclismo,3,125,Principiante,22148,5
+329,Sur,48,M,Running,5,32,Avanzado,14734,5
+330,Norte,70,M,Natacion,1,54,Principiante,11367,5
+331,CABA,64,M,Natacion,7,47,Avanzado,27631,5
+332,Norte,24,M,Yoga,3,31,Principiante,14928,5
+333,Sur,15,Otro,Gimnasio,5,62,Avanzado,29133,5
+334,Sur,65,F,Ciclismo,1,88,Principiante,24464,5
+335,Buenos Aires,63,F,Yoga,5,39,Intermedio,19044,5
+336,Sur,51,F,Natacion,6,34,Avanzado,30453,5
+337,Norte,59,F,Natacion,3,48,Principiante,11509,5
+338,CABA,13,M,Gimnasio,2,54,Intermedio,23931,5
+339,Sur,24,F,Yoga,5,52,Avanzado,20838,5
+340,Centro,53,M,Ciclismo,7,111,Avanzado,32276,5
+341,Buenos Aires,22,M,Yoga,1,60,Principiante,11516,5
+342,CABA,34,M,Running,6,50,Avanzado,13859,5
+343,CABA,22,M,Futbol,3,74,Principiante,10690,5
+344,Sur,17,F,Yoga,6,55,Avanzado,26942,
+345,CABA,36,Otro,Ciclismo,7,133,Avanzado,44088,5
+346,Sur,67,M,Futbol,3,64,Principiante,12181,5
+347,CABA,25,F,Running,5,84,Avanzado,14911,5
+348,Centro,41,F,Natacion,3,30,Intermedio,22838,5
+349,Sur,41,F,Ciclismo,1,82,Principiante,16871,5
+350,Centro,61,Otro,Futbol,2,63,Intermedio,15469,5
+351,Norte,32,M,Running,3,80,Principiante,7067,5
+352,Centro,51,M,Gimnasio,3,79,Principiante,17331,5
+353,Norte,47,Otro,Futbol,3,99,Principiante,10395,5
+354,Buenos Aires,43,Otro,Yoga,1,53,Principiante,11358,5
+355,Centro,37,M,Ciclismo,5,136,Avanzado,32007,5
+356,Centro,55,Otro,Futbol,4,94,Avanzado,15871,5
+357,CABA,27,Otro,Ciclismo,4,139,Intermedio,30070,4
+358,Sur,35,Otro,Natacion,7,47,Avanzado,23353,5
+359,Norte,17,Otro,Natacion,3,31,Intermedio,16809,5
+360,Centro,63,Otro,Gimnasio,2,45,Intermedio,24891,4
+361,Buenos Aires,38,Otro,Running,4,80,Intermedio,9647,5
+362,Sur,28,Otro,Natacion,6,37,Avanzado,25513,5
+363,Sur,47,M,Futbol,4,70,Avanzado,21431,5
+364,Norte,60,M,Futbol,2,61,Principiante,11535,5
+365,Norte,35,M,Ciclismo,7,63,Avanzado,39718,
+366,Norte,18,M,Running,5,81,Intermedio,9653,5
+367,CABA,48,F,Ciclismo,2,143,Intermedio,29156,4
+368,Centro,60,M,Running,2,75,Principiante,6920,5
+369,Buenos Aires,39,M,Futbol,5,89,Avanzado,19929,5
+370,Sur,62,M,Yoga,3,40,Principiante,,5
+371,Sur,20,M,Gimnasio,2,90,Principiante,14556,4
+372,Sur,41,F,Yoga,5,67,Intermedio,17489,5
+373,Norte,54,M,Gimnasio,3,84,Principiante,17828,5
+374,CABA,52,M,Ciclismo,6,98,Avanzado,,4
+375,Centro,45,F,Futbol,3,67,Principiante,10555,5
+376,Norte,57,M,Gimnasio,4,61,Intermedio,27071,5
+377,Norte,13,F,Gimnasio,4,57,Avanzado,27536,5
+378,CABA,50,Otro,Ciclismo,3,145,Intermedio,35991,5
+379,Sur,32,M,Ciclismo,3,133,Intermedio,30139,5
+380,CABA,67,Otro,Natacion,2,55,Intermedio,18110,5
+381,CABA,70,F,Gimnasio,7,82,Avanzado,,5
+382,Sur,16,F,Running,6,48,Avanzado,10497,5
+383,Sur,41,M,Ciclismo,1,92,Principiante,21929,4
+384,Sur,14,F,Natacion,5,58,Intermedio,17849,5
+385,Centro,59,Otro,Gimnasio,3,79,Principiante,20019,5
+386,Sur,66,Otro,Futbol,5,115,Intermedio,15588,5
+387,Centro,65,M,Ciclismo,5,94,Intermedio,35606,5
+388,CABA,59,Otro,Ciclismo,2,129,Intermedio,29885,5
+389,CABA,45,M,Yoga,5,43,Intermedio,19811,5
+390,Sur,58,Otro,Ciclismo,2,115,Principiante,17868,5
+391,Buenos Aires,51,Otro,Running,2,77,Intermedio,10709,5
+392,Norte,62,F,Gimnasio,4,54,Avanzado,34013,4
+393,Norte,47,F,Ciclismo,5,130,Intermedio,27012,5
+394,Norte,64,F,Ciclismo,2,70,Intermedio,25050,4
+395,Norte,33,F,Ciclismo,2,133,Principiante,23797,5
+396,CABA,27,Otro,Ciclismo,5,61,Avanzado,32236,5
+397,Buenos Aires,20,Otro,Yoga,3,33,Principiante,14553,5
+398,Sur,38,Otro,Ciclismo,2,77,Principiante,17793,5
+399,CABA,56,F,Running,1,43,Principiante,8368,4
+400,Centro,59,Otro,Natacion,2,33,Principiante,13016,5
+401,Norte,15,Otro,Futbol,4,117,Intermedio,13187,5
+402,CABA,14,F,Natacion,4,47,Avanzado,28609,5
+403,Centro,47,F,Futbol,3,110,Intermedio,17965,5
+404,CABA,22,F,Running,7,73,Avanzado,15175,5
+405,Sur,35,F,Natacion,4,42,Avanzado,22527,5
+406,Norte,57,F,Yoga,6,73,Avanzado,18745,5
+407,CABA,57,F,Gimnasio,5,83,Intermedio,29000,5
+408,Centro,15,M,Gimnasio,5,46,Intermedio,27381,5
+409,Sur,45,Otro,Gimnasio,6,73,Avanzado,38519,5
+410,CABA,13,M,Gimnasio,2,51,Intermedio,26574,5
+411,Centro,34,M,Futbol,6,99,Avanzado,19230,5
+412,Centro,34,F,Yoga,7,50,Avanzado,19931,5
+413,CABA,44,Otro,Futbol,5,79,Intermedio,16113,5
+414,Sur,33,F,Gimnasio,3,48,Intermedio,21614,4
+415,Sur,64,F,Running,5,53,Avanzado,15352,5
+416,CABA,67,F,Natacion,5,35,Avanzado,29556,5
+417,CABA,69,M,Futbol,7,106,Avanzado,18410,5
+418,CABA,14,F,Natacion,4,60,Intermedio,22766,5
+419,CABA,63,F,Natacion,7,51,Avanzado,28291,5
+420,Sur,20,M,Futbol,6,95,Avanzado,19062,5
+421,Centro,21,M,Natacion,4,50,Avanzado,24056,5
+422,Norte,36,F,Running,5,84,Avanzado,14976,5
+423,Sur,22,Otro,Yoga,3,48,Intermedio,21022,4
+424,Centro,49,Otro,Yoga,1,57,Principiante,10940,5
+425,Buenos Aires,25,F,Ciclismo,4,106,Intermedio,26416,5
+426,Sur,65,Otro,Running,5,88,Intermedio,,5
+427,Centro,34,M,Natacion,4,50,Avanzado,24601,5
+428,Sur,59,M,Gimnasio,3,59,Principiante,20189,5
+429,Sur,53,M,Running,7,30,Avanzado,14127,5
+430,CABA,54,M,Futbol,7,96,Avanzado,23223,5
+431,Centro,48,F,Yoga,1,54,Principiante,11735,4
+432,CABA,46,Otro,Running,5,48,Intermedio,8604,5
+433,Norte,46,M,Natacion,3,35,Principiante,16096,5
+434,Sur,22,F,Natacion,5,59,Intermedio,21073,5
+435,Centro,60,Otro,Natacion,4,31,Avanzado,24671,5
+436,Sur,42,F,Ciclismo,1,148,Principiante,20057,4
+437,Norte,27,F,Futbol,1,76,Principiante,9603,5
+438,Norte,58,F,Yoga,1,34,Principiante,13358,5
+439,Buenos Aires,29,M,Ciclismo,5,110,Avanzado,42834,5
+440,CABA,49,Otro,Yoga,4,61,Avanzado,27677,5
+441,CABA,15,M,Gimnasio,6,74,Avanzado,37783,5
+442,Norte,41,F,Natacion,2,60,Intermedio,17322,5
+443,Sur,50,F,Natacion,3,45,Principiante,15153,5
+444,Norte,62,Otro,Futbol,4,107,Intermedio,13442,5
+445,Norte,18,M,Futbol,1,92,Principiante,10902,5
+446,Sur,47,Otro,Yoga,2,66,Principiante,14188,5
+447,Buenos Aires,38,Otro,Yoga,2,57,Intermedio,18160,5
+448,Norte,36,Otro,Yoga,5,68,Avanzado,22047,5
+449,Buenos Aires,65,Otro,Running,4,82,Avanzado,10493,5
+450,Buenos Aires,70,M,Yoga,1,55,Principiante,,5
+451,Centro,55,M,Ciclismo,2,114,Principiante,22090,5
+452,CABA,47,F,Yoga,4,61,Avanzado,19181,5
+453,Norte,64,Otro,Natacion,6,30,Avanzado,27645,5
+454,Buenos Aires,65,M,Gimnasio,1,84,Principiante,17490,4
+455,CABA,30,M,Yoga,5,58,Avanzado,25566,5
+456,Sur,30,F,Natacion,4,58,Intermedio,19879,5
+457,Norte,27,M,Running,1,82,Principiante,8260,4
+458,Norte,20,F,Futbol,1,67,Principiante,8536,5
+459,Norte,51,Otro,Ciclismo,2,86,Intermedio,29221,5
+460,Sur,56,F,Futbol,3,73,Intermedio,14962,5
+461,Sur,35,Otro,Natacion,5,57,Intermedio,23699,5
+462,CABA,16,M,Gimnasio,5,84,Intermedio,26079,5
+463,CABA,54,M,Running,3,59,Intermedio,9160,5
+464,Buenos Aires,52,Otro,Natacion,2,33,Intermedio,18940,5
+465,Centro,42,Otro,Natacion,4,57,Avanzado,31093,5
+466,Sur,54,Otro,Natacion,3,33,Principiante,14859,5
+467,Norte,30,F,Gimnasio,3,59,Intermedio,22832,5
+468,CABA,41,M,Natacion,4,48,Avanzado,22933,5
+469,CABA,46,F,Natacion,7,40,Avanzado,23280,5
+470,Sur,68,F,Futbol,3,85,Intermedio,14982,5
+471,CABA,59,M,Futbol,7,112,Avanzado,18197,5
+472,Buenos Aires,19,M,Natacion,3,46,Principiante,13928,5
+473,Centro,14,F,Gimnasio,2,84,Principiante,16643,5
+474,Buenos Aires,19,F,Natacion,4,54,Intermedio,16562,5
+475,Norte,17,Otro,Natacion,4,43,Intermedio,16714,5
+476,Centro,66,F,Natacion,5,57,Intermedio,,5
+477,CABA,48,F,Running,3,36,Principiante,7901,5
+478,CABA,36,Otro,Yoga,5,34,Avanzado,23000,5
+479,Sur,55,M,Ciclismo,3,115,Intermedio,25195,5
+480,CABA,50,M,Natacion,5,48,Intermedio,18818,5
+481,Buenos Aires,68,Otro,Gimnasio,2,76,Principiante,17244,5
+482,CABA,57,F,Natacion,7,36,Avanzado,30071,5
+483,CABA,29,F,Futbol,1,109,Principiante,9291,5
+484,Centro,21,M,Ciclismo,4,90,Avanzado,42116,4
+485,CABA,31,F,Gimnasio,2,75,Intermedio,25725,5
+486,Centro,46,Otro,Running,2,57,Principiante,6977,5
+487,Norte,18,F,Futbol,4,118,Avanzado,22758,5
+488,Sur,25,F,Gimnasio,2,62,Principiante,16756,5
+489,Sur,45,M,Ciclismo,3,117,Principiante,25114,5
+490,Norte,57,M,Gimnasio,3,46,Intermedio,24201,5
+491,Sur,17,M,Yoga,1,53,Principiante,12100,5
+492,Centro,53,Otro,Yoga,5,62,Intermedio,18543,5
+493,Centro,38,F,Gimnasio,5,66,Intermedio,20158,5
+494,Sur,70,F,Futbol,1,77,Principiante,11307,4
+495,CABA,42,F,Ciclismo,3,124,Principiante,21598,4
+496,Buenos Aires,37,M,Ciclismo,7,93,Avanzado,43811,5
+497,Norte,37,F,Ciclismo,3,101,Intermedio,27595,5
+498,Buenos Aires,21,Otro,Futbol,5,99,Intermedio,15965,5
+499,CABA,26,M,Natacion,5,59,Intermedio,17889,5
+500,Centro,46,F,Yoga,4,49,Avanzado,22580,5
+501,Buenos Aires,23,F,Gimnasio,1,67,Principiante,19652,4
+502,Sur,29,Otro,Ciclismo,2,67,Principiante,18286,5
+503,Sur,13,M,Futbol,4,91,Intermedio,12377,5
+504,Buenos Aires,43,M,Gimnasio,5,61,Intermedio,25896,5
+505,CABA,17,Otro,Ciclismo,4,91,Intermedio,24520,5
+506,Sur,21,Otro,Running,2,80,Principiante,7667,4
+507,CABA,57,M,Futbol,6,89,Avanzado,,5
+508,CABA,55,M,Yoga,6,32,Avanzado,25611,5
+509,Sur,24,F,Gimnasio,6,72,Avanzado,36626,5
+510,CABA,56,F,Ciclismo,2,115,Principiante,22948,5
+511,Centro,48,M,Running,2,44,Intermedio,9377,5
+512,Norte,32,M,Futbol,4,108,Intermedio,12742,5
+513,Centro,14,M,Running,3,69,Principiante,7688,5
+514,Centro,17,M,Running,2,50,Principiante,6561,5
+515,Sur,25,M,Ciclismo,3,75,Principiante,21362,5
+516,Sur,54,M,Ciclismo,2,92,Intermedio,27511,4
+517,Norte,16,Otro,Running,1,33,Principiante,7614,4
+518,Buenos Aires,65,Otro,Gimnasio,1,45,Principiante,20968,5
+519,CABA,32,M,Running,1,54,Principiante,7824,5
+520,Norte,27,M,Futbol,5,98,Avanzado,16796,5
+521,CABA,53,Otro,Yoga,3,61,Principiante,12446,5
+522,Sur,36,Otro,Ciclismo,3,88,Intermedio,25585,5
+523,Buenos Aires,44,F,Running,6,67,Avanzado,13995,5
+524,Norte,42,M,Futbol,3,76,Intermedio,15064,5
+525,CABA,50,Otro,Natacion,4,43,Avanzado,25989,5
+526,Centro,70,M,Futbol,5,105,Intermedio,14482,5
+527,Buenos Aires,45,F,Futbol,7,63,Avanzado,17336,
+528,Buenos Aires,51,M,Ciclismo,4,135,Intermedio,28031,5
+529,CABA,32,M,Gimnasio,1,81,Principiante,18038,5
+530,CABA,18,F,Yoga,4,30,Intermedio,16551,5
+531,Buenos Aires,63,M,Natacion,4,31,Avanzado,22086,5
+532,Centro,38,Otro,Ciclismo,3,85,Intermedio,31965,4
+533,Sur,70,F,Futbol,7,101,Avanzado,16720,5
+534,Centro,12,F,Yoga,3,67,Principiante,12757,5
+535,Norte,66,M,Ciclismo,4,110,Intermedio,33601,5
+536,Norte,19,F,Running,4,71,Avanzado,13936,5
+537,Sur,14,M,Running,5,42,Intermedio,9656,5
+538,Centro,66,F,Ciclismo,2,95,Principiante,18293,5
+539,Norte,64,Otro,Gimnasio,5,69,Avanzado,30344,5
+540,Sur,31,M,Gimnasio,6,53,Avanzado,33709,5
+541,Norte,66,F,Gimnasio,4,51,Intermedio,20862,5
+542,Norte,34,M,Yoga,3,32,Intermedio,14554,5
+543,CABA,63,M,Gimnasio,3,60,Intermedio,,5
+544,Centro,40,F,Natacion,1,32,Principiante,13431,4
+545,Buenos Aires,54,Otro,Gimnasio,2,71,Intermedio,29011,4
+546,Sur,42,Otro,Futbol,6,90,Avanzado,23398,5
+547,Norte,18,Otro,Ciclismo,5,135,Intermedio,29768,5
+548,Buenos Aires,58,M,Gimnasio,3,70,Principiante,14372,5
+549,Sur,46,Otro,Natacion,3,57,Principiante,13095,4
+550,Centro,13,M,Ciclismo,4,93,Avanzado,43102,5
+551,Norte,70,M,Futbol,2,107,Intermedio,14792,5
+552,Norte,44,M,Futbol,2,68,Principiante,9341,5
+553,Norte,29,Otro,Futbol,1,78,Principiante,10647,5
+554,Norte,46,Otro,Yoga,2,40,Intermedio,16814,5
+555,CABA,52,F,Ciclismo,5,86,Avanzado,40061,5
+556,Sur,66,Otro,Natacion,5,37,Intermedio,,5
+557,Centro,23,M,Running,5,34,Intermedio,9461,
+558,Norte,22,Otro,Futbol,2,61,Principiante,12099,5
+559,Centro,58,Otro,Yoga,5,37,Intermedio,19443,5
+560,Norte,64,Otro,Running,2,82,Principiante,6616,5
+561,CABA,14,Otro,Gimnasio,4,88,Avanzado,33973,5
+562,CABA,37,Otro,Futbol,6,84,Avanzado,19486,5
+563,Centro,64,F,Yoga,4,41,Intermedio,19350,5
+564,CABA,45,Otro,Gimnasio,1,53,Principiante,18534,5
+565,Sur,64,M,Ciclismo,3,70,Intermedio,34077,5
+566,Norte,67,M,Natacion,4,52,Avanzado,24534,5
+567,Centro,64,F,Ciclismo,2,142,Principiante,20168,5
+568,Centro,19,Otro,Yoga,6,34,Avanzado,19066,5
+569,Sur,61,M,Running,3,65,Principiante,6074,5
+570,Norte,45,Otro,Natacion,7,43,Avanzado,30783,5
+571,Buenos Aires,60,F,Ciclismo,5,65,Avanzado,43812,4
+572,CABA,59,F,Natacion,3,39,Principiante,12224,4
+573,Centro,51,M,Running,4,63,Avanzado,13472,5
+574,CABA,42,F,Gimnasio,4,55,Intermedio,20574,5
+575,CABA,27,M,Yoga,3,66,Principiante,10314,5
+576,Norte,20,F,Natacion,4,39,Intermedio,18816,4
+577,Sur,23,Otro,Natacion,5,56,Intermedio,23202,5
+578,Norte,18,M,Gimnasio,4,46,Intermedio,27422,5
+579,Norte,24,F,Yoga,4,33,Intermedio,19639,5
+580,Norte,45,Otro,Yoga,5,68,Avanzado,24817,5
+581,CABA,44,M,Yoga,2,59,Intermedio,17668,5
+582,CABA,63,M,Futbol,2,111,Principiante,11246,5
+583,Norte,24,F,Gimnasio,7,86,Avanzado,38289,5
+584,CABA,46,F,Running,5,71,Avanzado,12185,5
+585,Norte,63,Otro,Futbol,1,81,Principiante,12046,4
+586,Buenos Aires,43,M,Natacion,4,31,Intermedio,20107,5
+587,CABA,22,M,Ciclismo,4,79,Avanzado,31882,5
+588,CABA,66,Otro,Ciclismo,4,117,Intermedio,29013,5
+589,CABA,66,M,Running,1,36,Principiante,6688,4
+590,CABA,51,Otro,Running,2,61,Intermedio,8602,5
+591,Norte,32,M,Yoga,2,55,Principiante,10490,4
+592,Sur,14,Otro,Gimnasio,2,64,Principiante,17522,5
+593,CABA,23,M,Gimnasio,3,74,Principiante,15257,5
+594,Buenos Aires,65,Otro,Running,4,65,Avanzado,10410,5
+595,Centro,23,Otro,Yoga,4,45,Avanzado,26077,5
+596,Buenos Aires,44,M,Natacion,3,42,Principiante,16674,5
+597,Buenos Aires,19,M,Ciclismo,4,70,Intermedio,32312,5
+598,Norte,47,Otro,Running,2,68,Principiante,7183,5
+599,Buenos Aires,50,M,Natacion,5,44,Intermedio,16518,5
+600,CABA,42,Otro,Running,3,49,Principiante,8310,5
+601,Norte,28,Otro,Futbol,2,117,Intermedio,13718,5
+602,Centro,17,Otro,Futbol,5,106,Avanzado,16315,5
+603,CABA,52,M,Futbol,2,69,Principiante,10038,5
+604,Sur,53,M,Ciclismo,4,129,Avanzado,46263,4
+605,Centro,21,F,Natacion,1,56,Principiante,13193,5
+606,Buenos Aires,15,M,Gimnasio,5,74,Intermedio,27694,5
+607,CABA,51,Otro,Futbol,7,110,Avanzado,20224,5
+608,Sur,70,F,Yoga,5,37,Avanzado,20670,5
+609,CABA,16,F,Futbol,3,60,Principiante,9805,5
+610,Sur,30,Otro,Natacion,4,30,Intermedio,22275,5
+611,Centro,53,M,Futbol,6,82,Avanzado,19703,5
+612,CABA,57,F,Natacion,6,55,Avanzado,21373,5
+613,Norte,39,M,Futbol,2,98,Principiante,8495,5
+614,CABA,43,F,Futbol,4,84,Avanzado,17127,5
+615,Sur,40,Otro,Running,5,89,Avanzado,12314,5
+616,Sur,28,F,Yoga,2,67,Principiante,14080,5
+617,Norte,26,F,Yoga,1,38,Principiante,12575,4
+618,Buenos Aires,15,F,Gimnasio,5,86,Intermedio,26705,5
+619,CABA,46,M,Yoga,5,73,Intermedio,15996,5
+620,Norte,65,Otro,Running,3,66,Intermedio,9282,5
+621,Centro,28,Otro,Gimnasio,1,84,Principiante,15022,5
+622,Centro,43,Otro,Natacion,4,35,Avanzado,25520,5
+623,Buenos Aires,46,Otro,Ciclismo,3,135,Principiante,20354,5
+624,Norte,69,Otro,Ciclismo,5,73,Intermedio,30201,5
+625,Norte,48,M,Futbol,2,78,Intermedio,17668,4
+626,Buenos Aires,12,Otro,Natacion,5,47,Avanzado,29965,5
+627,CABA,45,M,Running,6,48,Avanzado,15331,5
+628,Centro,41,Otro,Futbol,5,71,Intermedio,17717,5
+629,CABA,62,Otro,Futbol,6,113,Avanzado,19721,5
+630,Sur,34,Otro,Ciclismo,6,77,Avanzado,41106,5
+631,Norte,18,Otro,Gimnasio,3,73,Principiante,16453,5
+632,Sur,20,M,Ciclismo,3,134,Principiante,24426,5
+633,Norte,31,M,Yoga,7,72,Avanzado,24126,5
+634,Centro,70,Otro,Ciclismo,2,60,Intermedio,27890,4
+635,Sur,68,F,Gimnasio,3,77,Principiante,15856,5
+636,Sur,67,F,Gimnasio,4,56,Intermedio,21595,5
+637,Sur,28,M,Futbol,6,104,Avanzado,17482,5
+638,Sur,14,M,Natacion,4,46,Avanzado,22047,5
+639,Centro,49,M,Natacion,2,46,Intermedio,18080,5
+640,Centro,47,M,Running,5,41,Intermedio,9888,5
+641,Buenos Aires,37,F,Yoga,4,33,Intermedio,20260,5
+642,Sur,30,F,Yoga,2,62,Principiante,10406,5
+643,CABA,18,Otro,Gimnasio,4,53,Intermedio,24617,5
+644,CABA,39,Otro,Yoga,4,46,Intermedio,16243,5
+645,CABA,68,Otro,Ciclismo,6,103,Avanzado,40852,5
+646,Centro,52,Otro,Gimnasio,3,81,Principiante,15499,5
+647,CABA,53,Otro,Ciclismo,4,137,Intermedio,30749,5
+648,Norte,52,Otro,Yoga,2,47,Intermedio,18903,4
+649,CABA,45,M,Gimnasio,2,58,Intermedio,23607,4
+650,CABA,51,F,Ciclismo,4,80,Intermedio,26887,5
+651,Norte,40,Otro,Futbol,4,97,Avanzado,18267,5
+652,Centro,65,M,Futbol,1,88,Principiante,9305,5
+653,Centro,59,F,Gimnasio,7,62,Avanzado,27661,5
+654,Centro,21,F,Yoga,1,50,Principiante,12397,4
+655,Sur,48,M,Yoga,2,30,Principiante,11450,5
+656,Buenos Aires,40,M,Running,3,74,Intermedio,10511,5
+657,Centro,44,Otro,Gimnasio,3,80,Intermedio,22100,5
+658,Norte,18,Otro,Running,2,59,Intermedio,11561,5
+659,Norte,47,M,Gimnasio,4,85,Intermedio,23131,5
+660,Centro,53,F,Futbol,6,105,Avanzado,22602,5
+661,Norte,12,Otro,Ciclismo,4,76,Avanzado,45234,
+662,Sur,40,Otro,Running,2,60,Intermedio,9410,5
+663,Centro,19,Otro,Running,3,90,Principiante,5928,5
+664,Sur,45,F,Yoga,5,31,Avanzado,24439,5
+665,Centro,66,M,Running,5,38,Avanzado,13045,5
+666,Buenos Aires,38,F,Running,4,35,Intermedio,8408,5
+667,Buenos Aires,50,F,Gimnasio,5,65,Intermedio,22719,5
+668,CABA,14,F,Running,5,39,Intermedio,11713,5
+669,Buenos Aires,33,Otro,Yoga,6,59,Avanzado,19260,5
+670,CABA,12,Otro,Gimnasio,3,58,Principiante,19564,5
+671,Buenos Aires,43,Otro,Running,4,37,Avanzado,12850,5
+672,Sur,29,M,Ciclismo,6,90,Avanzado,36885,5
+673,Centro,25,M,Running,2,76,Intermedio,11878,5
+674,Norte,65,Otro,Running,2,81,Principiante,6967,5
+675,CABA,25,F,Ciclismo,4,108,Avanzado,40012,5
+676,Norte,53,F,Yoga,7,48,Avanzado,22288,5
+677,Norte,24,Otro,Natacion,7,41,Avanzado,29305,5
+678,Norte,54,M,Natacion,2,36,Principiante,16045,5
+679,Norte,67,F,Gimnasio,4,58,Avanzado,30741,
+680,Buenos Aires,49,M,Natacion,7,50,Avanzado,25592,5
+681,CABA,19,F,Natacion,1,32,Principiante,14218,5
+682,Sur,27,M,Ciclismo,7,77,Avanzado,32082,5
+683,Buenos Aires,63,Otro,Yoga,4,75,Avanzado,26190,5
+684,CABA,16,M,Natacion,7,37,Avanzado,31160,5
+685,Sur,46,F,Running,2,33,Intermedio,8703,5
+686,CABA,64,M,Ciclismo,7,98,Avanzado,38479,5
+687,Norte,23,M,Yoga,4,58,Intermedio,18495,5
+688,CABA,14,F,Gimnasio,2,82,Intermedio,25443,4
+689,Buenos Aires,40,Otro,Ciclismo,7,82,Avanzado,31415,5
+690,Centro,47,Otro,Ciclismo,5,75,Avanzado,31644,5
+691,Sur,28,Otro,Futbol,3,86,Intermedio,12937,5
+692,Centro,54,M,Natacion,4,54,Avanzado,24448,5
+693,CABA,42,F,Running,2,81,Principiante,6262,4
+694,Sur,68,Otro,Running,1,30,Principiante,5739,5
+695,CABA,25,Otro,Gimnasio,2,51,Intermedio,29010,5
+696,CABA,15,F,Ciclismo,4,88,Intermedio,30889,5
+697,CABA,31,Otro,Yoga,4,66,Avanzado,19392,5
+698,Norte,15,F,Gimnasio,4,51,Intermedio,22217,5
+699,Centro,46,F,Yoga,7,50,Avanzado,25677,5
+700,Sur,53,Otro,Gimnasio,3,51,Intermedio,24763,4
+701,Centro,67,M,Running,3,53,Principiante,6471,5
+702,Sur,63,Otro,Futbol,7,66,Avanzado,22880,5
+703,CABA,38,Otro,Ciclismo,5,141,Intermedio,26296,5
+704,Sur,18,Otro,Running,4,90,Intermedio,8169,5
+705,Buenos Aires,51,F,Natacion,6,31,Avanzado,24518,5
+706,CABA,30,F,Gimnasio,5,69,Intermedio,21593,
+707,Norte,60,Otro,Gimnasio,4,85,Intermedio,22614,5
+708,Buenos Aires,45,F,Running,3,60,Intermedio,11692,5
+709,Centro,22,F,Natacion,6,38,Avanzado,25927,5
+710,Buenos Aires,59,F,Gimnasio,5,61,Intermedio,28109,5
+711,CABA,36,Otro,Ciclismo,3,106,Principiante,20190,5
+712,Norte,42,M,Yoga,2,38,Intermedio,16856,5
+713,Norte,31,F,Running,5,40,Avanzado,15368,5
+714,Buenos Aires,59,Otro,Yoga,2,67,Intermedio,16506,5
+715,Buenos Aires,14,Otro,Futbol,2,67,Intermedio,16424,4
+716,Sur,70,F,Futbol,2,72,Principiante,10429,5
+717,Centro,35,F,Running,7,57,Avanzado,15226,5
+718,CABA,33,Otro,Yoga,3,36,Intermedio,19480,5
+719,Norte,43,M,Futbol,2,118,Principiante,10405,4
+720,Sur,38,Otro,Natacion,6,38,Avanzado,28427,5
+721,CABA,38,Otro,Futbol,5,83,Intermedio,15117,5
+722,Norte,47,F,Ciclismo,2,63,Intermedio,30792,5
+723,Norte,40,F,Gimnasio,3,71,Principiante,15407,5
+724,Sur,51,M,Gimnasio,7,54,Avanzado,,5
+725,CABA,38,M,Running,2,31,Principiante,7282,5
+726,Sur,28,Otro,Ciclismo,3,117,Principiante,20006,5
+727,Norte,47,M,Yoga,2,34,Intermedio,19479,5
+728,Sur,14,Otro,Futbol,2,76,Principiante,10785,5
+729,Centro,17,F,Futbol,1,89,Principiante,8831,5
+730,CABA,13,Otro,Gimnasio,3,90,Intermedio,24953,5
+731,Centro,21,M,Yoga,2,70,Principiante,10600,5
+732,Sur,59,F,Running,5,60,Intermedio,9630,5
+733,Centro,44,M,Futbol,5,70,Avanzado,20946,5
+734,Norte,36,F,Gimnasio,3,76,Principiante,20952,5
+735,Centro,53,F,Running,6,78,Avanzado,12936,5
+736,Centro,30,F,Natacion,7,30,Avanzado,27302,5
+737,Norte,60,Otro,Ciclismo,5,150,Intermedio,35211,5
+738,Buenos Aires,37,F,Futbol,3,85,Intermedio,16335,4
+739,Centro,61,M,Ciclismo,3,106,Principiante,22600,5
+740,CABA,17,M,Running,2,58,Principiante,8095,5
+741,Norte,53,Otro,Yoga,6,41,Avanzado,23075,5
+742,Centro,49,Otro,Ciclismo,6,146,Avanzado,32169,5
+743,Buenos Aires,50,Otro,Running,2,83,Principiante,7987,5
+744,CABA,58,Otro,Gimnasio,1,61,Principiante,16785,5
+745,Buenos Aires,67,F,Ciclismo,4,104,Intermedio,33101,5
+746,Sur,46,F,Gimnasio,2,70,Intermedio,23712,5
+747,Centro,15,Otro,Natacion,2,60,Principiante,12760,5
+748,Norte,52,M,Futbol,5,97,Intermedio,12200,5
+749,CABA,68,Otro,Gimnasio,5,81,Intermedio,22089,5
+750,Sur,44,M,Running,5,68,Avanzado,12810,5
+751,Buenos Aires,31,Otro,Ciclismo,4,112,Intermedio,35671,
+752,Norte,48,F,Futbol,6,77,Avanzado,19809,5
+753,Sur,53,M,Gimnasio,4,46,Intermedio,27683,5
+754,Buenos Aires,64,F,Natacion,2,54,Intermedio,17991,5
+755,Centro,51,M,Gimnasio,5,69,Intermedio,28870,5
+756,CABA,27,M,Gimnasio,5,65,Avanzado,38781,5
+757,Buenos Aires,32,Otro,Gimnasio,1,81,Principiante,18340,5
+758,Centro,42,M,Gimnasio,1,83,Principiante,19674,
+759,Norte,29,M,Running,3,66,Principiante,7795,5
+760,Norte,59,F,Ciclismo,4,150,Avanzado,35824,5
+761,Centro,38,Otro,Gimnasio,2,58,Intermedio,28531,5
+762,Centro,21,F,Yoga,5,31,Intermedio,14946,5
+763,Sur,42,Otro,Running,4,61,Intermedio,10058,5
+764,Norte,36,F,Running,2,89,Principiante,7564,5
+765,CABA,53,Otro,Gimnasio,4,81,Avanzado,31184,5
+766,Norte,28,M,Yoga,1,48,Principiante,,5
+767,Buenos Aires,31,M,Futbol,4,117,Intermedio,12889,5
+768,Sur,51,Otro,Futbol,7,92,Avanzado,21210,5
+769,Sur,64,F,Ciclismo,7,139,Avanzado,45037,5
+770,Buenos Aires,35,F,Gimnasio,3,53,Intermedio,25283,5
+771,Centro,47,Otro,Futbol,6,109,Avanzado,20768,5
+772,Centro,16,F,Ciclismo,2,81,Principiante,19898,4
+773,Centro,44,M,Futbol,2,87,Principiante,10275,
+774,Buenos Aires,24,Otro,Running,2,77,Principiante,7996,5
+775,Buenos Aires,52,Otro,Yoga,7,69,Avanzado,24537,5
+776,Buenos Aires,34,F,Running,7,36,Avanzado,13802,5
+777,Norte,13,Otro,Natacion,1,42,Principiante,12451,5
+778,CABA,19,M,Gimnasio,4,52,Avanzado,32462,5
+779,Norte,35,F,Gimnasio,5,86,Avanzado,37773,5
+780,Norte,51,F,Gimnasio,3,79,Intermedio,22142,5
+781,Centro,42,M,Running,7,78,Avanzado,12689,5
+782,Centro,22,Otro,Ciclismo,3,81,Principiante,17384,5
+783,Sur,37,F,Gimnasio,6,88,Avanzado,30905,5
+784,Centro,62,F,Running,3,79,Intermedio,9949,5
+785,Centro,66,M,Futbol,6,73,Avanzado,18837,5
+786,CABA,59,F,Natacion,2,30,Intermedio,23280,4
+787,Sur,15,M,Yoga,4,31,Avanzado,22660,5
+788,Buenos Aires,57,M,Running,2,47,Intermedio,8928,5
+789,CABA,54,M,Ciclismo,4,114,Intermedio,32753,5
+790,Buenos Aires,63,M,Running,3,30,Intermedio,8061,5
+791,Buenos Aires,38,Otro,Futbol,3,102,Intermedio,12169,5
+792,Centro,67,M,Natacion,3,45,Principiante,14933,5
+793,Centro,43,Otro,Gimnasio,7,53,Avanzado,37479,5
+794,CABA,65,M,Ciclismo,6,111,Avanzado,38796,5
+795,Buenos Aires,41,F,Futbol,3,113,Principiante,8881,5
+796,Centro,24,F,Futbol,6,64,Avanzado,20194,5
+797,Sur,24,M,Gimnasio,3,80,Intermedio,20281,5
+798,Centro,30,F,Futbol,5,120,Avanzado,23085,5
+799,CABA,13,F,Running,2,86,Intermedio,8705,4
+800,CABA,34,F,Gimnasio,2,63,Principiante,15798,5
+801,CABA,27,F,Gimnasio,4,70,Intermedio,20462,4
+802,Centro,36,Otro,Running,2,65,Intermedio,8797,4
+803,Norte,54,F,Futbol,2,62,Principiante,10902,5
+804,Sur,20,M,Gimnasio,4,65,Intermedio,29031,
+805,Centro,45,Otro,Gimnasio,2,55,Intermedio,27013,4
+806,Buenos Aires,30,F,Running,4,64,Intermedio,9688,5
+807,Norte,15,Otro,Gimnasio,1,86,Principiante,19984,5
+808,Buenos Aires,43,Otro,Yoga,5,46,Intermedio,16370,5
+809,CABA,12,M,Futbol,6,111,Avanzado,22276,5
+810,Centro,30,F,Running,3,30,Principiante,,5
+811,Norte,34,F,Futbol,3,73,Principiante,11853,5
+812,Centro,67,Otro,Futbol,6,114,Avanzado,22954,5
+813,CABA,35,Otro,Running,4,81,Intermedio,11257,5
+814,Centro,70,F,Natacion,6,47,Avanzado,28490,5
+815,Centro,52,M,Running,2,37,Principiante,7649,5
+816,Buenos Aires,58,Otro,Ciclismo,4,134,Intermedio,24714,5
+817,Sur,47,F,Yoga,2,63,Intermedio,20996,4
+818,Sur,51,Otro,Yoga,3,30,Principiante,10702,5
+819,Sur,58,F,Futbol,3,72,Principiante,,5
+820,Buenos Aires,42,M,Yoga,2,74,Principiante,11203,5
+821,Sur,32,M,Ciclismo,1,117,Principiante,23843,5
+822,Sur,30,M,Yoga,4,38,Avanzado,20338,5
+823,Sur,46,Otro,Running,5,43,Intermedio,11486,5
+824,Norte,29,F,Running,5,36,Avanzado,13553,5
+825,Norte,61,Otro,Gimnasio,2,53,Principiante,15495,5
+826,Sur,24,Otro,Futbol,1,113,Principiante,11333,4
+827,Norte,27,F,Running,5,84,Avanzado,13127,
+828,Buenos Aires,22,M,Running,5,41,Avanzado,11194,5
+829,Sur,67,Otro,Yoga,2,61,Intermedio,17227,5
+830,Centro,42,Otro,Futbol,7,119,Avanzado,20844,5
+831,CABA,67,F,Yoga,5,34,Intermedio,15159,5
+832,Sur,46,Otro,Ciclismo,2,121,Intermedio,,4
+833,Centro,13,Otro,Futbol,4,115,Intermedio,15628,5
+834,CABA,34,Otro,Gimnasio,3,80,Intermedio,21661,5
+835,Sur,56,M,Natacion,4,30,Avanzado,28357,5
+836,CABA,15,M,Ciclismo,6,75,Avanzado,44211,5
+837,CABA,54,F,Running,3,51,Intermedio,9630,5
+838,Buenos Aires,60,F,Running,2,75,Principiante,6262,5
+839,Buenos Aires,38,M,Running,2,88,Intermedio,8643,5
+840,Sur,19,Otro,Yoga,2,37,Intermedio,15717,4
+841,Centro,64,M,Gimnasio,5,81,Intermedio,21557,5
+842,Sur,54,F,Ciclismo,3,63,Principiante,25116,5
+843,CABA,69,Otro,Gimnasio,1,60,Principiante,16313,5
+844,Buenos Aires,28,F,Natacion,3,50,Intermedio,19956,5
+845,Norte,27,F,Gimnasio,2,49,Intermedio,25284,5
+846,Sur,67,M,Gimnasio,2,62,Intermedio,27277,5
+847,Norte,16,F,Gimnasio,2,88,Principiante,20564,5
+848,Norte,61,F,Running,7,58,Avanzado,12823,
+849,Norte,35,Otro,Running,4,42,Avanzado,13410,5
+850,Norte,56,F,Ciclismo,4,133,Intermedio,35086,5
+851,Buenos Aires,12,F,Futbol,4,79,Avanzado,16339,5
+852,Buenos Aires,58,M,Yoga,5,50,Intermedio,18139,5
+853,Sur,42,Otro,Natacion,7,34,Avanzado,26683,5
+854,CABA,64,M,Running,3,51,Principiante,8031,5
+855,Centro,30,M,Running,5,51,Avanzado,15359,5
+856,Centro,29,M,Natacion,1,51,Principiante,12587,4
+857,CABA,33,Otro,Ciclismo,7,103,Avanzado,31524,5
+858,Buenos Aires,41,M,Yoga,4,52,Intermedio,,5
+859,Centro,49,F,Natacion,2,56,Principiante,13439,5
+860,Norte,40,F,Yoga,2,63,Principiante,,5
+861,CABA,14,Otro,Yoga,5,35,Avanzado,19979,5
+862,Buenos Aires,45,M,Ciclismo,4,137,Avanzado,43658,4
+863,Norte,34,M,Natacion,5,31,Intermedio,16719,5
+864,Centro,55,M,Natacion,1,46,Principiante,12994,4
+865,Buenos Aires,44,Otro,Running,4,38,Intermedio,10545,5
+866,Norte,64,M,Gimnasio,5,66,Avanzado,36036,5
+867,Norte,47,F,Gimnasio,7,50,Avanzado,28488,5
+868,Buenos Aires,26,Otro,Running,5,45,Intermedio,10529,5
+869,Buenos Aires,57,M,Ciclismo,4,124,Intermedio,31328,5
+870,Sur,43,F,Yoga,4,30,Intermedio,20149,5
+871,Norte,31,M,Running,1,62,Principiante,7420,5
+872,Sur,57,M,Yoga,1,74,Principiante,11384,5
+873,Norte,38,Otro,Natacion,3,50,Principiante,11830,5
+874,Buenos Aires,45,M,Futbol,5,94,Intermedio,16450,5
+875,Sur,62,M,Yoga,7,30,Avanzado,,5
+876,CABA,43,Otro,Yoga,5,61,Intermedio,19541,5
+877,Buenos Aires,68,F,Yoga,5,37,Avanzado,22142,5
+878,Norte,65,M,Natacion,4,45,Intermedio,18326,5
+879,Norte,32,F,Running,3,52,Intermedio,11164,5
+880,Centro,43,Otro,Futbol,5,74,Intermedio,17745,5
+881,CABA,66,Otro,Gimnasio,5,84,Avanzado,29661,5
+882,Buenos Aires,42,F,Natacion,4,57,Intermedio,21626,5
+883,Buenos Aires,68,M,Gimnasio,2,61,Principiante,19310,5
+884,Sur,61,Otro,Natacion,2,31,Intermedio,23751,5
+885,CABA,41,Otro,Futbol,7,77,Avanzado,19533,5
+886,Centro,27,M,Yoga,3,34,Principiante,11109,5
+887,Buenos Aires,43,F,Running,2,48,Principiante,6582,5
+888,Buenos Aires,16,F,Running,3,71,Principiante,7002,5
+889,Centro,70,F,Ciclismo,5,136,Intermedio,34239,5
+890,Buenos Aires,68,M,Ciclismo,1,146,Principiante,18113,5
+891,Buenos Aires,49,Otro,Futbol,2,68,Intermedio,13894,5
+892,Norte,64,M,Running,4,88,Intermedio,11627,5
+893,Sur,22,M,Gimnasio,4,76,Avanzado,38138,5
+894,Buenos Aires,33,Otro,Futbol,3,62,Intermedio,16325,5
+895,CABA,13,M,Yoga,5,58,Intermedio,17753,5
+896,CABA,53,F,Gimnasio,4,89,Avanzado,35554,4
+897,Norte,33,Otro,Yoga,3,40,Intermedio,17135,5
+898,Norte,19,M,Ciclismo,2,76,Principiante,19753,5
+899,Norte,27,M,Running,2,38,Intermedio,8713,5
+900,CABA,13,F,Futbol,2,85,Intermedio,14099,4
+901,Buenos Aires,59,F,Futbol,5,109,Avanzado,18488,5
+902,Buenos Aires,30,M,Ciclismo,3,114,Principiante,17524,5
+903,Sur,22,Otro,Futbol,6,73,Avanzado,19734,5
+904,Buenos Aires,65,Otro,Ciclismo,4,143,Avanzado,43818,5
+905,Sur,29,M,Gimnasio,7,82,Avanzado,35674,5
+906,Buenos Aires,22,M,Running,7,44,Avanzado,11403,5
+907,Centro,61,F,Running,7,47,Avanzado,12964,5
+908,Buenos Aires,57,F,Gimnasio,1,49,Principiante,19709,4
+909,Norte,12,M,Yoga,3,62,Intermedio,16731,5
+910,CABA,46,Otro,Running,6,51,Avanzado,14751,5
+911,Centro,66,Otro,Futbol,2,93,Principiante,9918,5
+912,Sur,37,F,Natacion,3,59,Principiante,14718,5
+913,Sur,53,Otro,Natacion,3,34,Intermedio,16959,5
+914,Centro,54,Otro,Ciclismo,3,138,Intermedio,28755,5
+915,CABA,24,F,Ciclismo,1,119,Principiante,19494,4
+916,CABA,26,Otro,Running,4,59,Intermedio,9254,5
+917,Buenos Aires,40,Otro,Futbol,5,78,Avanzado,18879,5
+918,Sur,18,F,Yoga,1,68,Principiante,11112,5
+919,Sur,65,M,Ciclismo,5,76,Avanzado,43016,5
+920,Norte,45,Otro,Yoga,5,60,Avanzado,22383,5
+921,Buenos Aires,17,F,Yoga,7,51,Avanzado,27992,
+922,Buenos Aires,43,F,Futbol,2,107,Principiante,10631,5
+923,Buenos Aires,29,Otro,Running,5,54,Avanzado,10409,5
+924,Buenos Aires,42,F,Ciclismo,1,67,Principiante,20144,5
+925,Norte,64,F,Gimnasio,3,48,Principiante,18368,5
+926,Buenos Aires,49,Otro,Ciclismo,1,136,Principiante,17878,5
+927,Sur,17,F,Running,3,87,Principiante,6012,5
+928,Centro,14,F,Natacion,7,40,Avanzado,24323,5
+929,Norte,31,Otro,Yoga,7,38,Avanzado,23317,5
+930,Buenos Aires,55,M,Futbol,4,115,Avanzado,17939,5
+931,CABA,35,M,Natacion,7,56,Avanzado,25325,5
+932,CABA,55,F,Running,1,34,Principiante,7541,4
+933,Sur,31,F,Yoga,1,30,Principiante,10307,4
+934,Centro,70,M,Natacion,3,50,Principiante,15782,5
+935,CABA,17,M,Ciclismo,7,138,Avanzado,40338,5
+936,Sur,34,M,Natacion,5,44,Intermedio,23027,5
+937,Buenos Aires,62,Otro,Futbol,7,69,Avanzado,18169,5
+938,Norte,25,Otro,Gimnasio,5,88,Intermedio,20128,5
+939,Norte,50,F,Natacion,5,53,Avanzado,22243,5
+940,Sur,41,M,Natacion,2,58,Principiante,16565,5
+941,Buenos Aires,66,Otro,Natacion,2,57,Principiante,12653,
+942,CABA,14,Otro,Natacion,1,49,Principiante,12735,5
+943,Buenos Aires,22,M,Natacion,5,44,Avanzado,23731,5
+944,Sur,17,M,Yoga,1,38,Principiante,14243,4
+945,CABA,32,F,Yoga,5,36,Avanzado,18843,5
+946,Buenos Aires,14,M,Ciclismo,7,94,Avanzado,43476,5
+947,Buenos Aires,20,F,Natacion,5,43,Avanzado,22148,5
+948,Buenos Aires,47,F,Gimnasio,3,73,Intermedio,26013,5
+949,Centro,42,Otro,Futbol,2,61,Intermedio,14789,5
+950,Buenos Aires,48,M,Natacion,3,39,Intermedio,17006,5
+951,Centro,48,Otro,Gimnasio,5,86,Avanzado,34651,5
+952,Norte,18,Otro,Running,2,67,Intermedio,11101,5
+953,Centro,46,Otro,Yoga,5,31,Avanzado,20665,5
+954,Norte,49,F,Natacion,2,48,Intermedio,17333,5
+955,Buenos Aires,53,F,Yoga,2,72,Principiante,11117,5
+956,Buenos Aires,58,Otro,Gimnasio,5,79,Avanzado,34088,5
+957,Sur,54,M,Yoga,2,33,Principiante,11072,
+958,Sur,29,F,Yoga,3,60,Principiante,12901,5
+959,Norte,35,M,Gimnasio,3,81,Intermedio,25085,4
+960,Norte,13,Otro,Ciclismo,7,106,Avanzado,32832,5
+961,Centro,64,M,Natacion,3,54,Intermedio,16600,5
+962,Norte,63,F,Natacion,4,49,Intermedio,21579,
+963,Buenos Aires,39,Otro,Yoga,4,58,Intermedio,19209,5
+964,Sur,39,Otro,Natacion,2,51,Intermedio,16611,5
+965,Norte,48,Otro,Gimnasio,1,68,Principiante,15346,4
+966,Norte,44,M,Ciclismo,5,110,Intermedio,26280,5
+967,Centro,70,F,Yoga,7,46,Avanzado,25448,5
+968,Buenos Aires,50,F,Yoga,5,66,Avanzado,23111,5
+969,Norte,16,Otro,Gimnasio,5,55,Intermedio,27743,5
+970,Centro,13,M,Yoga,4,32,Intermedio,19032,5
+971,CABA,20,M,Futbol,4,77,Avanzado,18522,5
+972,CABA,40,F,Running,2,68,Intermedio,,5
+973,Norte,67,F,Running,4,62,Avanzado,12919,5
+974,Buenos Aires,37,Otro,Yoga,3,35,Principiante,13292,5
+975,Sur,41,M,Natacion,3,53,Intermedio,20805,
+976,Norte,16,Otro,Futbol,1,85,Principiante,11416,4
+977,Buenos Aires,35,M,Ciclismo,2,106,Principiante,20884,4
+978,Centro,39,Otro,Natacion,5,58,Intermedio,16613,5
+979,Sur,34,F,Yoga,2,41,Principiante,14500,5
+980,Buenos Aires,53,M,Gimnasio,1,63,Principiante,18893,4
+981,CABA,63,F,Ciclismo,3,92,Principiante,18653,4
+982,Buenos Aires,36,F,Running,2,73,Intermedio,8366,5
+983,CABA,38,Otro,Gimnasio,3,71,Principiante,18485,4
+984,CABA,23,Otro,Yoga,3,46,Intermedio,20138,5
+985,Buenos Aires,59,M,Futbol,5,100,Intermedio,14448,5
+986,Centro,63,M,Ciclismo,5,80,Intermedio,27307,5
+987,Sur,24,M,Ciclismo,5,143,Intermedio,,5
+988,Centro,43,F,Yoga,5,64,Avanzado,24333,5
+989,CABA,33,Otro,Ciclismo,4,72,Intermedio,25893,5
+990,CABA,31,F,Yoga,4,64,Intermedio,14753,5
+991,Norte,26,F,Yoga,3,36,Intermedio,18645,5
+992,CABA,62,Otro,Running,2,54,Principiante,6570,5
+993,CABA,56,Otro,Ciclismo,5,130,Intermedio,26018,5
+994,CABA,21,M,Yoga,5,43,Intermedio,15496,5
+995,Buenos Aires,48,Otro,Ciclismo,7,147,Avanzado,42824,5
+996,CABA,55,F,Yoga,4,49,Avanzado,22118,5
+997,Centro,63,M,Futbol,3,96,Principiante,10962,5
+998,Buenos Aires,30,F,Running,4,54,Intermedio,8217,5
+999,Centro,63,F,Natacion,7,47,Avanzado,24263,5
+1000,Sur,43,M,Futbol,3,113,Principiante,10435,5
+1001,Centro,14,Otro,Running,3,54,Principiante,8111,5
+1002,CABA,60,M,Running,2,82,Principiante,8253,5
+1003,Buenos Aires,51,M,Ciclismo,5,95,Intermedio,29797,5
+1004,Norte,14,F,Futbol,3,83,Intermedio,12740,5
+1005,CABA,60,Otro,Gimnasio,2,89,Intermedio,25906,5
+1006,Norte,44,Otro,Yoga,3,30,Principiante,,5
+1007,Centro,64,M,Futbol,2,71,Principiante,12004,5
+1008,Buenos Aires,36,M,Running,5,58,Intermedio,10837,5
+1009,Norte,22,Otro,Ciclismo,1,144,Principiante,19420,5
+1010,Buenos Aires,67,M,Gimnasio,3,68,Principiante,14629,5
+1011,CABA,44,F,Running,4,57,Intermedio,9670,5
+1012,Norte,12,Otro,Yoga,6,60,Avanzado,19362,5
+1013,Sur,56,Otro,Running,5,38,Avanzado,14147,5
+1014,CABA,64,F,Yoga,7,49,Avanzado,24989,5
+1015,Centro,70,M,Natacion,3,49,Intermedio,22156,4
+1016,Centro,61,Otro,Yoga,3,48,Principiante,14751,4
+1017,Norte,32,F,Ciclismo,1,71,Principiante,22184,5
+1018,Centro,63,M,Futbol,2,105,Principiante,11053,5
+1019,Buenos Aires,40,M,Futbol,5,112,Intermedio,16023,5
+1020,Sur,33,Otro,Yoga,4,74,Intermedio,16216,5
+1021,Sur,67,M,Running,4,32,Avanzado,14435,
+1022,CABA,25,F,Ciclismo,3,119,Principiante,21652,5
+1023,Centro,18,M,Natacion,7,60,Avanzado,27013,5
+1024,CABA,55,F,Natacion,3,60,Intermedio,19748,5
+1025,Norte,31,Otro,Ciclismo,3,61,Principiante,17581,5
+1026,CABA,24,F,Gimnasio,1,53,Principiante,16059,5
+1027,Norte,63,M,Futbol,2,104,Intermedio,17037,5
+1028,Centro,56,Otro,Natacion,1,55,Principiante,12466,5
+1029,Centro,25,Otro,Natacion,3,54,Intermedio,22568,5
+1030,CABA,58,Otro,Gimnasio,5,53,Avanzado,26888,5
+1031,Norte,48,F,Yoga,1,32,Principiante,13841,5
+1032,Norte,52,F,Natacion,4,49,Intermedio,22783,5
+1033,Centro,20,M,Yoga,5,70,Intermedio,20186,5
+1034,Sur,57,F,Running,6,68,Avanzado,13099,5
+1035,Buenos Aires,43,F,Ciclismo,2,93,Intermedio,29275,5
+1036,Norte,45,Otro,Natacion,6,40,Avanzado,26492,5
+1037,Centro,57,Otro,Ciclismo,4,139,Avanzado,41737,5
+1038,Sur,24,M,Futbol,2,76,Principiante,12449,5
+1039,Sur,60,F,Running,4,80,Avanzado,12539,5
+1040,Sur,31,M,Yoga,3,64,Intermedio,16206,5
+1041,Buenos Aires,34,M,Natacion,1,41,Principiante,13920,5
+1042,Norte,54,M,Ciclismo,6,78,Avanzado,38489,5
+1043,Sur,37,Otro,Gimnasio,3,54,Intermedio,26759,5
+1044,Centro,69,M,Yoga,5,56,Intermedio,20583,5
+1045,Centro,45,Otro,Natacion,2,43,Intermedio,17433,5
+1046,Centro,67,F,Ciclismo,2,61,Intermedio,33113,4
+1047,Buenos Aires,28,F,Yoga,1,68,Principiante,12302,5
+1048,Norte,32,F,Gimnasio,2,72,Intermedio,29645,5
+1049,Sur,53,F,Futbol,5,105,Avanzado,22691,
+1050,Sur,15,M,Ciclismo,7,127,Avanzado,41580,5
+1051,Centro,32,Otro,Gimnasio,3,75,Principiante,15134,5
+1052,Centro,66,Otro,Ciclismo,2,145,Intermedio,33048,5
+1053,CABA,17,Otro,Ciclismo,5,72,Avanzado,45256,5
+1054,Buenos Aires,48,F,Ciclismo,4,98,Avanzado,43890,5
+1055,Buenos Aires,57,M,Yoga,3,41,Principiante,13481,5
+1056,Centro,57,F,Ciclismo,4,117,Avanzado,34187,5
+1057,CABA,32,Otro,Futbol,5,75,Avanzado,15700,5
+1058,Norte,23,Otro,Ciclismo,4,69,Intermedio,25647,5
+1059,CABA,63,Otro,Yoga,5,70,Intermedio,20657,5
+1060,Sur,53,F,Gimnasio,1,59,Principiante,19944,5
+1061,CABA,27,M,Running,7,40,Avanzado,13909,5
+1062,Norte,19,Otro,Futbol,7,104,Avanzado,21210,5
+1063,Sur,34,M,Ciclismo,4,140,Intermedio,32888,
+1064,Sur,40,M,Yoga,1,44,Principiante,10414,5
+1065,Sur,28,F,Futbol,1,71,Principiante,9193,5
+1066,CABA,21,M,Natacion,7,35,Avanzado,26383,5
+1067,Norte,40,M,Ciclismo,3,141,Principiante,19607,5
+1068,Buenos Aires,21,F,Gimnasio,2,89,Principiante,15914,5
+1069,CABA,33,F,Natacion,1,48,Principiante,15230,5
+1070,Norte,49,M,Yoga,2,35,Principiante,14150,5
+1071,Sur,17,Otro,Futbol,2,100,Intermedio,17142,4
+1072,Buenos Aires,47,Otro,Running,5,62,Avanzado,,5
+1073,Sur,19,Otro,Yoga,2,49,Principiante,10380,5
+1074,Sur,49,M,Natacion,1,41,Principiante,12606,5
+1075,Sur,69,M,Running,2,52,Intermedio,8331,5
+1076,Norte,46,M,Futbol,1,65,Principiante,12205,5
+1077,CABA,59,M,Ciclismo,6,65,Avanzado,31989,5
+1078,Sur,16,Otro,Natacion,1,31,Principiante,14766,5
+1079,Buenos Aires,38,F,Futbol,7,61,Avanzado,23072,5
+1080,Centro,57,Otro,Gimnasio,7,78,Avanzado,36625,5
+1081,Sur,28,M,Ciclismo,5,119,Avanzado,32101,5
+1082,Buenos Aires,48,F,Gimnasio,5,81,Avanzado,30610,5
+1083,Norte,30,F,Running,4,70,Intermedio,9797,5
+1084,Norte,39,F,Natacion,2,44,Intermedio,20821,5
+1085,CABA,20,F,Running,5,48,Avanzado,11692,5
+1086,Centro,36,Otro,Natacion,6,37,Avanzado,21503,5
+1087,Sur,23,M,Gimnasio,2,84,Intermedio,26237,5
+1088,Buenos Aires,41,Otro,Yoga,3,33,Principiante,,5
+1089,CABA,49,M,Natacion,5,44,Intermedio,22958,5
+1090,CABA,56,F,Natacion,4,42,Intermedio,16642,5
+1091,Buenos Aires,17,F,Gimnasio,5,45,Intermedio,25691,5
+1092,Norte,66,Otro,Futbol,4,63,Avanzado,21881,5
+1093,Sur,28,F,Natacion,3,57,Principiante,11340,5
+1094,CABA,49,M,Ciclismo,4,99,Intermedio,35505,5
+1095,Sur,34,M,Futbol,2,87,Principiante,10522,5
+1096,Buenos Aires,20,Otro,Yoga,2,51,Intermedio,16580,4
+1097,CABA,57,Otro,Futbol,1,105,Principiante,11043,5
+1098,Sur,48,F,Futbol,5,106,Avanzado,15899,5
+1099,CABA,26,Otro,Natacion,1,37,Principiante,14033,5
+1100,CABA,42,Otro,Gimnasio,2,59,Intermedio,24360,
+1101,Sur,15,F,Futbol,7,116,Avanzado,16541,5
+1102,Norte,32,Otro,Ciclismo,3,109,Intermedio,24664,5
+1103,Norte,36,M,Yoga,5,69,Intermedio,16037,5
+1104,Centro,46,Otro,Gimnasio,2,56,Intermedio,22034,5
+1105,Centro,63,Otro,Yoga,5,58,Avanzado,21517,5
+1106,Norte,27,M,Natacion,2,40,Principiante,11761,5
+1107,CABA,31,F,Yoga,7,58,Avanzado,24709,5
+1108,Norte,33,F,Ciclismo,7,71,Avanzado,36884,5
+1109,Sur,67,Otro,Natacion,2,55,Principiante,13147,4
+1110,CABA,63,M,Futbol,1,103,Principiante,9830,5
+1111,Buenos Aires,41,F,Gimnasio,5,76,Intermedio,25039,5
+1112,Buenos Aires,47,M,Yoga,3,54,Intermedio,,5
+1113,Buenos Aires,69,Otro,Ciclismo,6,65,Avanzado,44929,4
+1114,CABA,64,Otro,Yoga,3,48,Intermedio,18037,4
+1115,Norte,16,Otro,Ciclismo,2,69,Principiante,18099,
+1116,CABA,46,F,Gimnasio,2,51,Principiante,15294,5
+1117,Buenos Aires,18,Otro,Gimnasio,6,86,Avanzado,32211,5
+1118,Sur,43,F,Gimnasio,2,80,Intermedio,22366,5
+1119,CABA,43,M,Gimnasio,3,70,Intermedio,29981,5
+1120,CABA,56,F,Natacion,2,57,Principiante,13954,5
+1121,Norte,36,F,Running,5,65,Intermedio,8780,5
+1122,Norte,23,F,Yoga,2,38,Principiante,11481,5
+1123,Sur,34,M,Ciclismo,7,140,Avanzado,37196,5
+1124,CABA,36,F,Running,4,55,Intermedio,11187,
+1125,CABA,14,F,Gimnasio,1,64,Principiante,,4
+1126,Norte,38,Otro,Gimnasio,6,73,Avanzado,27468,5
+1127,Norte,46,F,Gimnasio,7,55,Avanzado,34969,5
+1128,CABA,36,F,Futbol,4,65,Intermedio,14449,5
+1129,Norte,68,F,Natacion,4,45,Avanzado,28971,
+1130,Norte,51,F,Running,4,72,Intermedio,9151,5
+1131,Buenos Aires,28,M,Running,2,60,Intermedio,9641,5
+1132,Centro,66,F,Gimnasio,6,54,Avanzado,32472,5
+1133,Buenos Aires,32,Otro,Yoga,2,49,Principiante,12046,5
+1134,Centro,68,M,Futbol,6,119,Avanzado,18735,5
+1135,Buenos Aires,53,F,Futbol,4,94,Avanzado,16176,5
+1136,Centro,67,Otro,Running,5,76,Avanzado,14448,5
+1137,Norte,18,Otro,Yoga,5,74,Intermedio,16963,5
+1138,CABA,35,Otro,Natacion,5,33,Avanzado,30705,5
+1139,CABA,65,Otro,Futbol,4,108,Avanzado,20862,5
+1140,Norte,64,F,Yoga,6,53,Avanzado,22509,5
+1141,Sur,14,Otro,Yoga,5,51,Intermedio,17582,5
+1142,Norte,15,F,Yoga,3,46,Principiante,,4
+1143,Centro,23,M,Gimnasio,3,72,Principiante,14771,
+1144,Centro,21,M,Natacion,1,53,Principiante,16246,4
+1145,CABA,23,Otro,Gimnasio,2,90,Principiante,15841,5
+1146,CABA,27,Otro,Running,1,80,Principiante,6684,4
+1147,Centro,32,M,Running,3,61,Principiante,6544,
+1148,Buenos Aires,57,M,Gimnasio,5,75,Intermedio,21914,5
+1149,Centro,47,F,Yoga,5,74,Intermedio,15686,5
+1150,Centro,27,F,Natacion,4,44,Avanzado,30760,5
+1151,Norte,66,Otro,Yoga,2,71,Principiante,14390,5
+1152,Buenos Aires,28,Otro,Yoga,2,40,Intermedio,16445,5
+1153,Buenos Aires,17,F,Yoga,5,69,Intermedio,17769,5
+1154,Centro,61,F,Natacion,4,46,Avanzado,,4
+1155,Buenos Aires,50,Otro,Gimnasio,2,73,Principiante,18424,5
+1156,CABA,18,F,Running,3,51,Principiante,7589,5
+1157,Centro,25,M,Ciclismo,7,60,Avanzado,40995,5
+1158,Sur,55,Otro,Running,2,90,Principiante,6773,5
+1159,Centro,50,F,Gimnasio,5,45,Intermedio,24651,5
+1160,Buenos Aires,17,M,Futbol,3,88,Principiante,9458,5
+1161,Norte,27,M,Yoga,6,38,Avanzado,23299,5
+1162,CABA,37,F,Ciclismo,3,76,Principiante,17513,5
+1163,Norte,41,F,Gimnasio,2,84,Principiante,17272,5
+1164,Norte,70,M,Ciclismo,5,69,Intermedio,29310,5
+1165,Sur,49,Otro,Ciclismo,4,111,Intermedio,30818,5
+1166,Buenos Aires,12,M,Futbol,7,111,Avanzado,19427,5
+1167,Centro,62,F,Futbol,4,102,Intermedio,14223,5
+1168,Sur,47,Otro,Ciclismo,2,66,Intermedio,25525,5
+1169,Norte,58,M,Running,1,35,Principiante,8288,
+1170,Centro,60,M,Gimnasio,2,82,Intermedio,20925,5
+1171,Centro,13,Otro,Gimnasio,5,86,Avanzado,38916,5
+1172,Buenos Aires,20,Otro,Running,1,85,Principiante,8059,4
+1173,Centro,49,M,Running,1,63,Principiante,6759,5
+1174,CABA,51,Otro,Yoga,4,62,Avanzado,20905,5
+1175,Norte,20,M,Gimnasio,2,80,Intermedio,23898,4
+1176,Centro,27,Otro,Gimnasio,2,77,Principiante,19150,4
+1177,Norte,44,F,Natacion,7,56,Avanzado,24566,5
+1178,Norte,13,Otro,Futbol,6,113,Avanzado,19469,5
+1179,Centro,52,F,Running,7,54,Avanzado,12602,5
+1180,CABA,19,Otro,Running,5,48,Intermedio,,5
+1181,Norte,60,F,Ciclismo,3,130,Principiante,16938,4
+1182,Buenos Aires,29,M,Running,5,70,Avanzado,10838,5
+1183,Buenos Aires,46,F,Futbol,4,115,Intermedio,15966,5
+1184,Buenos Aires,31,Otro,Futbol,2,76,Principiante,8963,4
+1185,Sur,20,M,Natacion,2,35,Intermedio,16412,5
+1186,CABA,12,F,Yoga,7,42,Avanzado,19874,5
+1187,Norte,43,Otro,Futbol,5,98,Intermedio,15779,5
+1188,Buenos Aires,45,Otro,Gimnasio,7,77,Avanzado,32258,5
+1189,Sur,39,Otro,Gimnasio,7,45,Avanzado,31450,5
+1190,Norte,12,F,Running,7,76,Avanzado,11874,5
+1191,Sur,12,M,Running,2,59,Principiante,7895,5
+1192,Norte,65,F,Natacion,5,52,Avanzado,30689,5
+1193,Norte,22,Otro,Yoga,6,71,Avanzado,25106,5
+1194,CABA,26,M,Yoga,2,71,Principiante,14473,5
+1195,Norte,52,M,Gimnasio,5,51,Intermedio,26974,5
+1196,CABA,65,Otro,Gimnasio,4,74,Intermedio,25441,5
+1197,Sur,57,F,Futbol,3,80,Principiante,,5
+1198,Buenos Aires,59,M,Yoga,5,58,Avanzado,23560,5
+1199,Sur,44,Otro,Running,2,69,Principiante,6142,4
+1200,Norte,70,M,Natacion,6,50,Avanzado,28974,5
+1201,Centro,63,M,Running,5,85,Intermedio,8208,5
+1202,Sur,52,F,Futbol,7,79,Avanzado,18068,5
+1203,Buenos Aires,53,Otro,Running,2,69,Principiante,8217,5
+1204,CABA,25,F,Ciclismo,4,94,Avanzado,39854,5
+1205,Sur,50,Otro,Ciclismo,5,77,Intermedio,30608,5
+1206,Buenos Aires,40,F,Running,2,89,Principiante,8124,5
+1207,CABA,32,M,Futbol,3,63,Principiante,8506,5
+1208,Centro,18,F,Futbol,7,81,Avanzado,21254,5
+1209,Centro,68,F,Gimnasio,4,61,Avanzado,30531,4
+1210,Buenos Aires,61,F,Natacion,1,33,Principiante,11518,4
+1211,Norte,69,M,Futbol,5,104,Avanzado,17184,5
+1212,CABA,15,F,Yoga,6,49,Avanzado,26989,5
+1213,Sur,62,M,Yoga,5,47,Intermedio,17613,5
+1214,Centro,41,Otro,Ciclismo,7,146,Avanzado,34271,5
+1215,Norte,66,F,Gimnasio,2,47,Principiante,19105,5
+1216,CABA,70,Otro,Running,3,50,Principiante,6423,5
+1217,Sur,36,Otro,Futbol,6,86,Avanzado,20980,5
+1218,Norte,70,F,Natacion,5,33,Intermedio,22558,5
+1219,Norte,12,F,Gimnasio,5,59,Intermedio,25462,5
+1220,Centro,44,F,Gimnasio,1,84,Principiante,19153,5
+1221,Norte,18,Otro,Ciclismo,1,125,Principiante,,4
+1222,Centro,49,Otro,Yoga,5,70,Intermedio,16199,5
+1223,Sur,12,Otro,Natacion,3,35,Principiante,11644,5
+1224,Centro,16,Otro,Gimnasio,4,80,Intermedio,26406,5
+1225,Buenos Aires,57,M,Futbol,1,87,Principiante,11604,4
+1226,Sur,64,Otro,Futbol,5,65,Avanzado,20006,5
+1227,Centro,46,Otro,Yoga,4,43,Avanzado,23231,5
+1228,Norte,18,M,Running,4,31,Intermedio,11170,5
+1229,Centro,56,Otro,Yoga,7,63,Avanzado,25987,5
+1230,Centro,61,M,Gimnasio,5,49,Intermedio,23379,5
+1231,Sur,20,F,Running,3,63,Intermedio,10713,5
+1232,Buenos Aires,33,M,Futbol,7,80,Avanzado,15712,5
+1233,CABA,45,F,Running,2,67,Principiante,7673,5
+1234,CABA,69,F,Futbol,4,88,Intermedio,14954,5
+1235,Centro,59,Otro,Futbol,3,110,Intermedio,16892,5
+1236,Buenos Aires,17,Otro,Running,5,90,Intermedio,10966,5
+1237,Buenos Aires,12,Otro,Natacion,6,59,Avanzado,21230,5
+1238,Buenos Aires,55,F,Futbol,1,71,Principiante,12333,5
+1239,Sur,36,F,Running,3,48,Principiante,7803,5
+1240,Sur,69,M,Futbol,7,73,Avanzado,16419,
+1241,CABA,51,F,Futbol,1,120,Principiante,10802,4
+1242,Centro,68,Otro,Futbol,2,84,Intermedio,15737,5
+1243,Buenos Aires,62,M,Futbol,5,96,Avanzado,16017,5
+1244,CABA,32,M,Yoga,5,43,Intermedio,18233,5
+1245,Centro,54,M,Running,1,57,Principiante,5943,5
+1246,Buenos Aires,52,F,Natacion,3,31,Principiante,13544,5
+1247,Centro,35,F,Yoga,1,41,Principiante,13503,5
+1248,CABA,32,F,Gimnasio,1,54,Principiante,16794,4
+1249,Centro,65,F,Futbol,3,102,Principiante,9620,5
+1250,Sur,17,M,Yoga,4,44,Avanzado,23033,5
+1251,Norte,37,F,Futbol,5,117,Intermedio,13225,5
+1252,CABA,38,M,Natacion,7,30,Avanzado,22080,
+1253,Norte,38,M,Yoga,5,70,Intermedio,15788,5
+1254,Centro,48,Otro,Ciclismo,3,75,Intermedio,33969,5
+1255,Sur,36,M,Ciclismo,7,109,Avanzado,39579,5
+1256,Centro,57,Otro,Natacion,3,37,Intermedio,22886,5
+1257,Centro,21,Otro,Ciclismo,2,111,Intermedio,25433,5
+1258,Norte,61,Otro,Yoga,4,70,Avanzado,20784,5
+1259,Centro,59,M,Yoga,4,39,Avanzado,20645,5
+1260,Sur,60,M,Running,5,85,Intermedio,10042,5
+1261,Sur,61,Otro,Ciclismo,2,126,Principiante,18699,4
+1262,Norte,16,F,Yoga,4,42,Avanzado,26292,5
+1263,Norte,32,F,Natacion,3,48,Principiante,12812,5
+1264,Sur,15,Otro,Ciclismo,3,106,Intermedio,24713,5
+1265,Buenos Aires,29,Otro,Running,2,31,Principiante,6532,5
+1266,CABA,28,M,Yoga,7,58,Avanzado,25211,
+1267,Centro,17,F,Ciclismo,6,131,Avanzado,36097,5
+1268,Norte,62,Otro,Yoga,6,61,Avanzado,23351,5
+1269,Buenos Aires,70,F,Natacion,5,56,Avanzado,26852,5
+1270,Norte,66,Otro,Natacion,3,53,Principiante,15798,5
+1271,Centro,35,Otro,Natacion,1,36,Principiante,,4
+1272,CABA,67,F,Gimnasio,3,89,Principiante,17975,5
+1273,CABA,61,Otro,Futbol,2,92,Principiante,9206,5
+1274,Buenos Aires,53,F,Futbol,2,83,Principiante,9696,5
+1275,Centro,16,Otro,Running,5,44,Intermedio,11458,5
+1276,Centro,70,M,Gimnasio,7,48,Avanzado,34499,5
+1277,Centro,33,Otro,Futbol,4,107,Avanzado,17281,
+1278,Centro,41,Otro,Gimnasio,3,68,Intermedio,21782,5
+1279,Buenos Aires,55,F,Futbol,3,79,Intermedio,14583,4
+1280,Buenos Aires,36,M,Yoga,1,48,Principiante,13163,5
+1281,CABA,49,M,Ciclismo,5,147,Intermedio,35552,5
+1282,Centro,32,M,Futbol,3,60,Intermedio,12948,5
+1283,Norte,48,F,Futbol,2,69,Intermedio,17520,4
+1284,Buenos Aires,59,F,Running,7,85,Avanzado,13128,
+1285,Sur,47,F,Gimnasio,6,86,Avanzado,28599,5
+1286,Norte,23,F,Futbol,3,115,Intermedio,17351,5
+1287,Buenos Aires,70,M,Running,3,48,Principiante,7904,
+1288,Sur,28,Otro,Ciclismo,3,62,Principiante,20429,5
+1289,Sur,16,F,Natacion,1,47,Principiante,14879,4
+1290,Norte,22,F,Natacion,7,48,Avanzado,29959,5
+1291,CABA,31,F,Yoga,7,60,Avanzado,23906,5
+1292,CABA,64,M,Futbol,5,113,Avanzado,20244,5
+1293,CABA,68,M,Running,4,30,Intermedio,9994,5
+1294,Centro,21,Otro,Running,3,69,Intermedio,11519,5
+1295,CABA,57,M,Ciclismo,7,69,Avanzado,46224,5
+1296,Norte,53,F,Gimnasio,3,71,Principiante,16137,5
+1297,Norte,22,M,Natacion,4,47,Avanzado,24216,5
+1298,Norte,61,M,Futbol,3,102,Principiante,10829,5
+1299,Buenos Aires,50,F,Futbol,5,71,Intermedio,14141,5
+1300,Buenos Aires,52,Otro,Natacion,5,59,Intermedio,22970,5
+1301,Centro,13,F,Ciclismo,2,81,Principiante,17537,4
+1302,Sur,37,M,Natacion,2,52,Principiante,11736,5
+1303,Norte,55,M,Gimnasio,4,69,Avanzado,29528,5
+1304,Centro,65,M,Ciclismo,2,145,Intermedio,24511,
+1305,Norte,51,F,Ciclismo,5,123,Intermedio,25976,5
+1306,Norte,48,F,Yoga,5,44,Intermedio,19693,5
+1307,Sur,40,M,Ciclismo,3,80,Intermedio,25972,5
+1308,Buenos Aires,42,M,Running,3,40,Intermedio,9356,5
+1309,Norte,40,M,Gimnasio,2,76,Principiante,18113,5
+1310,CABA,27,M,Ciclismo,5,80,Intermedio,35129,5
+1311,Buenos Aires,51,F,Yoga,6,37,Avanzado,20175,5
+1312,Buenos Aires,55,Otro,Natacion,4,35,Avanzado,25355,5
+1313,CABA,38,M,Ciclismo,5,99,Intermedio,35316,5
+1314,Centro,70,F,Natacion,4,52,Avanzado,30319,5
+1315,CABA,38,F,Gimnasio,5,79,Avanzado,30048,5
+1316,Buenos Aires,38,M,Gimnasio,5,54,Intermedio,23748,5
+1317,Sur,35,F,Ciclismo,5,104,Intermedio,24831,5
+1318,CABA,19,M,Ciclismo,3,86,Principiante,21537,5
+1319,Centro,41,M,Futbol,4,89,Avanzado,15965,5
+1320,Buenos Aires,48,F,Gimnasio,3,76,Intermedio,22237,5
+1321,Buenos Aires,52,F,Ciclismo,6,81,Avanzado,43741,5
+1322,Sur,20,F,Running,5,57,Avanzado,14361,5
+1323,Buenos Aires,31,M,Yoga,3,33,Principiante,10139,5
+1324,Norte,33,M,Gimnasio,2,71,Principiante,14770,5
+1325,Norte,56,M,Ciclismo,2,144,Intermedio,24533,4
+1326,Centro,18,M,Yoga,2,49,Principiante,10109,5
+1327,CABA,53,M,Natacion,4,53,Intermedio,17143,5
+1328,Sur,63,M,Running,3,40,Principiante,7030,5
+1329,CABA,16,F,Running,2,79,Principiante,6551,5
+1330,Norte,62,F,Natacion,2,37,Principiante,12927,5
+1331,Centro,29,F,Natacion,5,41,Avanzado,29402,5
+1332,Centro,55,Otro,Ciclismo,1,100,Principiante,19799,5
+1333,Centro,42,M,Running,4,63,Avanzado,12254,5
+1334,Sur,15,Otro,Natacion,5,58,Intermedio,19464,5
+1335,Sur,42,F,Yoga,6,38,Avanzado,27048,5
+1336,Centro,69,Otro,Ciclismo,4,73,Avanzado,35552,5
+1337,Centro,30,Otro,Ciclismo,3,91,Principiante,18725,5
+1338,Buenos Aires,45,M,Yoga,6,35,Avanzado,26007,5
+1339,Sur,22,Otro,Gimnasio,2,68,Intermedio,25654,5
+1340,Centro,30,F,Futbol,6,78,Avanzado,22367,5
+1341,Norte,70,M,Gimnasio,4,52,Avanzado,35516,5
+1342,Buenos Aires,38,M,Natacion,2,40,Principiante,11513,5
+1343,Sur,59,Otro,Ciclismo,5,64,Avanzado,35772,5
+1344,Sur,34,F,Gimnasio,7,50,Avanzado,31696,5
+1345,Centro,70,F,Yoga,3,68,Intermedio,20531,5
+1346,Centro,24,F,Futbol,5,82,Avanzado,19629,5
+1347,Centro,55,F,Yoga,1,38,Principiante,13790,5
+1348,CABA,32,M,Futbol,4,96,Avanzado,23292,5
+1349,Centro,38,M,Futbol,4,83,Avanzado,16692,5
+1350,Norte,15,F,Gimnasio,3,53,Intermedio,28526,5
+1351,CABA,69,F,Ciclismo,5,79,Avanzado,43432,5
+1352,Buenos Aires,45,F,Gimnasio,6,52,Avanzado,36988,5
+1353,Sur,45,M,Running,3,49,Principiante,6813,5
+1354,Sur,68,Otro,Ciclismo,5,102,Intermedio,35751,5
+1355,Sur,62,F,Yoga,4,73,Intermedio,,5
+1356,Norte,35,M,Gimnasio,5,71,Avanzado,28233,5
+1357,Centro,50,F,Running,3,37,Intermedio,8421,5
+1358,Buenos Aires,16,Otro,Natacion,4,32,Intermedio,19010,5
+1359,Buenos Aires,57,F,Yoga,3,54,Principiante,12720,5
+1360,Norte,60,Otro,Natacion,4,33,Avanzado,25286,5
+1361,Sur,17,Otro,Running,2,83,Principiante,7541,5
+1362,CABA,48,M,Futbol,5,60,Avanzado,23054,5
+1363,Buenos Aires,12,M,Ciclismo,5,118,Intermedio,25147,5
+1364,Buenos Aires,42,F,Ciclismo,6,72,Avanzado,41707,5
+1365,Sur,23,Otro,Futbol,6,89,Avanzado,23138,5
+1366,Norte,19,F,Gimnasio,3,71,Intermedio,25922,4
+1367,Norte,52,Otro,Running,5,68,Intermedio,,5
+1368,Buenos Aires,14,Otro,Yoga,1,31,Principiante,12838,5
+1369,Sur,41,Otro,Futbol,1,92,Principiante,11447,4
+1370,CABA,28,F,Gimnasio,1,87,Principiante,20127,5
+1371,Sur,12,M,Yoga,6,32,Avanzado,,5
+1372,Buenos Aires,15,M,Ciclismo,1,126,Principiante,20086,4
+1373,Norte,21,F,Ciclismo,5,107,Avanzado,44058,5
+1374,Buenos Aires,37,F,Natacion,3,51,Principiante,11973,5
+1375,CABA,40,Otro,Gimnasio,3,81,Principiante,19207,5
+1376,Buenos Aires,42,M,Yoga,7,49,Avanzado,20456,5
+1377,Sur,56,F,Running,2,54,Principiante,7452,5
+1378,Norte,32,F,Futbol,7,114,Avanzado,22065,5
+1379,Buenos Aires,50,M,Ciclismo,2,133,Intermedio,30034,5
+1380,CABA,46,M,Futbol,4,119,Avanzado,18471,5
+1381,Buenos Aires,26,F,Yoga,5,73,Intermedio,19469,5
+1382,Centro,25,Otro,Yoga,4,63,Avanzado,21398,5
+1383,Centro,38,F,Futbol,1,66,Principiante,11218,5
+1384,Centro,63,M,Ciclismo,4,143,Avanzado,36888,5
+1385,Centro,25,F,Futbol,2,96,Intermedio,16168,5
+1386,Norte,68,F,Yoga,4,64,Avanzado,20796,5
+1387,Norte,16,F,Futbol,4,109,Intermedio,14244,5
+1388,CABA,58,M,Natacion,3,58,Principiante,14794,5
+1389,Norte,67,Otro,Yoga,5,47,Avanzado,21693,5
+1390,CABA,15,Otro,Natacion,3,50,Principiante,16499,5
+1391,Sur,24,F,Natacion,7,31,Avanzado,22893,5
+1392,Sur,41,F,Yoga,3,64,Intermedio,18963,5
+1393,Norte,62,Otro,Gimnasio,3,50,Principiante,14293,5
+1394,Buenos Aires,57,M,Futbol,3,77,Intermedio,16100,5
+1395,Centro,40,F,Yoga,3,72,Principiante,12725,5
+1396,CABA,59,Otro,Futbol,1,92,Principiante,9732,4
+1397,Norte,19,Otro,Ciclismo,6,148,Avanzado,32933,5
+1398,Centro,21,Otro,Ciclismo,4,102,Intermedio,25065,5
+1399,Sur,70,M,Running,3,90,Intermedio,8968,5
+1400,Buenos Aires,44,M,Yoga,1,69,Principiante,11146,5
+1401,Buenos Aires,41,M,Natacion,5,36,Intermedio,20131,5
+1402,CABA,64,F,Futbol,5,106,Intermedio,15944,
+1403,Norte,49,M,Ciclismo,5,93,Intermedio,35196,5
+1404,Sur,66,M,Yoga,1,64,Principiante,14488,4
+1405,Buenos Aires,53,M,Futbol,2,113,Principiante,9705,5
+1406,Centro,52,M,Yoga,3,35,Intermedio,15679,4
+1407,Sur,21,F,Yoga,3,72,Principiante,14343,5
+1408,CABA,47,Otro,Yoga,5,53,Avanzado,,5
+1409,Sur,32,F,Gimnasio,3,88,Intermedio,24933,5
+1410,Centro,33,M,Natacion,4,33,Avanzado,23487,5
+1411,Norte,31,M,Yoga,3,44,Principiante,11190,5
+1412,Norte,65,M,Yoga,4,30,Avanzado,19321,5
+1413,Sur,51,M,Running,3,56,Principiante,5609,5
+1414,Norte,34,Otro,Gimnasio,4,51,Intermedio,27362,5
+1415,Norte,28,M,Futbol,3,102,Intermedio,15907,5
+1416,Centro,33,Otro,Running,3,51,Principiante,7118,5
+1417,CABA,44,F,Gimnasio,2,68,Intermedio,29054,5
+1418,CABA,27,Otro,Gimnasio,2,57,Intermedio,23556,5
+1419,Sur,62,M,Natacion,3,57,Intermedio,17630,5
+1420,Centro,62,M,Gimnasio,2,62,Intermedio,25184,5
+1421,Buenos Aires,67,F,Natacion,2,33,Intermedio,18825,5
+1422,Buenos Aires,43,F,Yoga,2,45,Principiante,11637,5
+1423,CABA,67,Otro,Natacion,1,57,Principiante,11340,5
+1424,Centro,23,M,Gimnasio,1,79,Principiante,14316,4
+1425,Centro,61,F,Yoga,5,36,Avanzado,26382,5
+1426,Buenos Aires,32,Otro,Yoga,4,30,Intermedio,15408,5
+1427,Norte,47,M,Futbol,6,81,Avanzado,16019,5
+1428,Buenos Aires,53,M,Running,4,88,Avanzado,15015,5
+1429,Centro,17,Otro,Gimnasio,3,87,Principiante,19173,4
+1430,Centro,29,Otro,Natacion,3,57,Principiante,15107,5
+1431,CABA,55,F,Natacion,6,37,Avanzado,25275,5
+1432,Buenos Aires,47,Otro,Futbol,2,99,Intermedio,14337,5
+1433,CABA,18,Otro,Ciclismo,5,142,Avanzado,46406,5
+1434,CABA,51,Otro,Gimnasio,3,81,Intermedio,28447,5
+1435,Norte,25,M,Natacion,1,55,Principiante,14870,5
+1436,Norte,42,F,Natacion,5,30,Intermedio,,5
+1437,Sur,54,M,Running,5,85,Avanzado,10765,5
+1438,Norte,33,M,Gimnasio,2,88,Intermedio,24975,5
+1439,Centro,44,Otro,Gimnasio,2,83,Principiante,19779,5
+1440,Sur,19,Otro,Running,4,55,Avanzado,12839,5
+1441,CABA,68,F,Ciclismo,3,66,Intermedio,24200,5
+1442,CABA,45,F,Yoga,1,60,Principiante,12608,4
+1443,Sur,19,F,Natacion,2,30,Principiante,14049,5
+1444,CABA,48,F,Futbol,7,111,Avanzado,19423,5
+1445,Sur,61,F,Yoga,6,73,Avanzado,18934,5
+1446,Norte,58,Otro,Ciclismo,5,107,Avanzado,31738,5
+1447,CABA,50,Otro,Natacion,2,37,Principiante,13697,5
+1448,Norte,52,Otro,Yoga,4,41,Intermedio,15577,5
+1449,Sur,67,M,Natacion,1,43,Principiante,13506,
+1450,Centro,18,M,Ciclismo,2,64,Principiante,17962,5
+1451,Norte,66,F,Futbol,5,63,Intermedio,15284,5
+1452,CABA,31,M,Gimnasio,4,55,Avanzado,37249,5
+1453,Sur,52,Otro,Yoga,3,40,Intermedio,16282,5
+1454,Centro,46,Otro,Running,5,52,Avanzado,15522,5
+1455,Centro,65,Otro,Futbol,4,63,Avanzado,21279,5
+1456,Norte,47,Otro,Futbol,2,116,Principiante,10256,5
+1457,CABA,24,Otro,Futbol,6,110,Avanzado,19742,5
+1458,CABA,54,M,Yoga,5,47,Avanzado,26098,5
+1459,Sur,60,M,Ciclismo,2,135,Principiante,18274,5
+1460,Buenos Aires,43,Otro,Ciclismo,6,81,Avanzado,34392,5
+1461,Sur,60,M,Futbol,2,76,Intermedio,17282,5
+1462,CABA,25,F,Running,5,63,Avanzado,12785,5
+1463,Centro,29,Otro,Gimnasio,5,52,Intermedio,21523,5
+1464,CABA,57,Otro,Natacion,4,49,Intermedio,19984,5
+1465,Buenos Aires,40,F,Running,4,72,Avanzado,12207,5
+1466,Norte,67,M,Running,2,67,Intermedio,10113,5
+1467,CABA,23,F,Yoga,4,54,Intermedio,20414,5
+1468,Sur,69,F,Natacion,4,41,Intermedio,21837,5
+1469,Norte,63,Otro,Futbol,3,79,Intermedio,17251,5
+1470,Centro,16,F,Running,1,61,Principiante,8380,5
+1471,Sur,55,F,Gimnasio,5,67,Avanzado,32015,5
+1472,Sur,43,M,Running,4,90,Avanzado,14457,5
+1473,Centro,60,Otro,Yoga,4,73,Intermedio,15605,5
+1474,Buenos Aires,58,F,Gimnasio,7,52,Avanzado,27156,5
+1475,Buenos Aires,59,M,Gimnasio,1,77,Principiante,20478,5
+1476,Centro,40,Otro,Gimnasio,4,75,Avanzado,38329,5
+1477,Sur,40,F,Yoga,1,62,Principiante,14200,4
+1478,Norte,68,M,Gimnasio,4,71,Intermedio,22686,5
+1479,Buenos Aires,65,F,Yoga,5,61,Intermedio,14405,5
+1480,CABA,45,F,Gimnasio,6,48,Avanzado,32323,5
+1481,Sur,29,F,Gimnasio,4,63,Avanzado,29799,5
+1482,Centro,44,F,Gimnasio,7,69,Avanzado,27833,5
+1483,Norte,56,M,Running,4,35,Intermedio,9445,5
+1484,Centro,18,Otro,Yoga,5,46,Intermedio,18355,5
+1485,Norte,60,F,Yoga,2,36,Intermedio,16165,5
+1486,Buenos Aires,68,M,Running,7,86,Avanzado,15322,5
+1487,Buenos Aires,46,M,Gimnasio,5,60,Avanzado,30445,5
+1488,Norte,45,Otro,Futbol,4,92,Intermedio,13639,5
+1489,Sur,20,M,Running,4,55,Avanzado,11126,5
+1490,CABA,37,Otro,Gimnasio,5,88,Intermedio,24478,5
+1491,CABA,64,F,Futbol,3,104,Principiante,11310,5
+1492,Norte,45,F,Futbol,5,96,Avanzado,17933,5
+1493,Buenos Aires,14,F,Futbol,3,78,Principiante,8795,5
+1494,Sur,22,F,Gimnasio,5,81,Intermedio,21352,5
+1495,Sur,69,F,Futbol,4,87,Avanzado,16864,5
+1496,CABA,63,Otro,Running,6,53,Avanzado,,5
+1497,Norte,63,Otro,Yoga,2,68,Principiante,10602,4
+1498,CABA,59,F,Natacion,1,49,Principiante,13238,4
+1499,CABA,66,M,Futbol,4,70,Avanzado,16148,5
+1500,Sur,55,Otro,Natacion,2,38,Principiante,14589,5
+1501,Norte,35,Otro,Gimnasio,3,86,Intermedio,26429,5
+1502,CABA,42,M,Natacion,2,58,Principiante,11927,5
+1503,Sur,54,F,Ciclismo,3,65,Principiante,22149,5
+1504,Centro,21,Otro,Futbol,5,87,Avanzado,17883,5
+1505,Sur,18,M,Ciclismo,3,146,Principiante,19372,5
+1506,Norte,50,F,Ciclismo,3,120,Principiante,24385,5
+1507,Sur,35,M,Running,7,51,Avanzado,12107,5
+1508,Norte,41,Otro,Ciclismo,4,89,Intermedio,26114,5
+1509,Buenos Aires,65,M,Running,5,59,Intermedio,9410,5
+1510,Sur,64,M,Gimnasio,2,69,Principiante,16153,5
+1511,Sur,48,Otro,Natacion,3,57,Intermedio,23112,5
+1512,Centro,36,Otro,Running,4,87,Avanzado,14863,5
+1513,Norte,19,M,Futbol,1,74,Principiante,12272,5
+1514,Sur,61,Otro,Running,3,62,Intermedio,9229,5
+1515,Norte,13,M,Yoga,6,64,Avanzado,26829,5
+1516,CABA,35,Otro,Ciclismo,1,103,Principiante,18542,
+1517,Buenos Aires,70,M,Natacion,5,36,Avanzado,21649,5
+1518,Norte,20,Otro,Gimnasio,2,68,Principiante,14890,4
+1519,Centro,43,Otro,Natacion,3,56,Principiante,13644,4
+1520,Sur,48,M,Gimnasio,6,68,Avanzado,32108,5
+1521,Norte,31,F,Futbol,1,114,Principiante,10466,5
+1522,CABA,13,M,Natacion,4,41,Intermedio,16960,5
+1523,CABA,36,F,Running,3,83,Intermedio,9014,5
+1524,Sur,22,Otro,Running,1,66,Principiante,7915,5
+1525,Buenos Aires,57,F,Running,6,33,Avanzado,11782,5
+1526,Centro,63,Otro,Natacion,7,41,Avanzado,30049,5
+1527,Sur,27,Otro,Running,5,76,Avanzado,14961,5
+1528,Buenos Aires,48,Otro,Ciclismo,3,93,Principiante,19231,4
+1529,Norte,30,M,Gimnasio,3,85,Principiante,16320,5
+1530,Centro,13,M,Yoga,2,32,Principiante,11234,5
+1531,Norte,35,M,Running,1,71,Principiante,6860,5
+1532,Norte,16,M,Running,4,54,Avanzado,11144,5
+1533,CABA,27,Otro,Ciclismo,4,144,Avanzado,43486,4
+1534,Centro,58,M,Running,3,62,Intermedio,9887,5
+1535,Buenos Aires,15,Otro,Running,3,62,Intermedio,10318,5
+1536,Sur,40,M,Ciclismo,2,148,Intermedio,35643,4
+1537,Sur,49,F,Running,4,75,Avanzado,14539,5
+1538,Norte,55,Otro,Yoga,2,49,Intermedio,18963,4
+1539,Centro,45,M,Yoga,2,32,Principiante,14641,5
+1540,Sur,33,Otro,Natacion,5,58,Avanzado,25219,5
+1541,Sur,69,F,Running,4,87,Intermedio,11423,5
+1542,CABA,54,F,Yoga,5,73,Avanzado,26369,5
+1543,Buenos Aires,49,M,Running,5,72,Avanzado,14238,5
+1544,Sur,12,Otro,Running,7,30,Avanzado,15596,5
+1545,CABA,51,M,Gimnasio,1,59,Principiante,20559,5
+1546,Norte,37,F,Yoga,1,75,Principiante,10857,5
+1547,Norte,53,M,Natacion,6,36,Avanzado,,5
+1548,Centro,26,Otro,Yoga,3,44,Principiante,13601,5
+1549,Centro,15,M,Yoga,2,56,Principiante,14947,5
+1550,Buenos Aires,41,F,Futbol,4,92,Avanzado,20966,5
+1551,CABA,49,M,Natacion,5,41,Avanzado,27057,
+1552,Centro,62,Otro,Natacion,1,31,Principiante,14232,5
+1553,Centro,27,F,Ciclismo,1,122,Principiante,22518,4
+1554,CABA,27,M,Gimnasio,2,83,Intermedio,27387,5
+1555,Buenos Aires,49,F,Futbol,5,116,Intermedio,14965,5
+1556,CABA,49,Otro,Gimnasio,1,83,Principiante,20291,4
+1557,Centro,65,Otro,Gimnasio,4,54,Intermedio,20709,
+1558,Centro,64,F,Running,3,77,Principiante,8381,4
+1559,Centro,24,M,Ciclismo,7,136,Avanzado,40569,5
+1560,Centro,64,M,Futbol,3,64,Principiante,11569,5
+1561,Norte,30,M,Yoga,7,73,Avanzado,23898,5
+1562,Buenos Aires,28,M,Natacion,5,46,Intermedio,19792,5
+1563,Centro,57,M,Futbol,3,68,Principiante,11542,5
+1564,Norte,39,M,Futbol,1,60,Principiante,11345,5
+1565,Norte,46,F,Yoga,4,73,Avanzado,18995,5
+1566,Buenos Aires,19,F,Gimnasio,4,66,Avanzado,32297,5
+1567,CABA,24,Otro,Futbol,5,113,Intermedio,15155,5
+1568,Centro,61,F,Ciclismo,4,87,Intermedio,25003,5
+1569,Buenos Aires,41,F,Ciclismo,4,129,Intermedio,34710,5
+1570,Centro,21,Otro,Yoga,5,57,Avanzado,21852,5
+1571,Buenos Aires,60,M,Futbol,1,88,Principiante,9112,4
+1572,CABA,62,M,Ciclismo,1,83,Principiante,19853,5
+1573,CABA,19,M,Yoga,6,75,Avanzado,23345,5
+1574,Centro,53,Otro,Natacion,1,37,Principiante,16083,5
+1575,Sur,58,F,Running,4,43,Intermedio,9959,5
+1576,Sur,42,Otro,Yoga,6,49,Avanzado,24171,5
+1577,Norte,31,M,Futbol,3,82,Intermedio,16428,5
+1578,Buenos Aires,44,Otro,Futbol,5,109,Intermedio,12562,5
+1579,CABA,66,M,Futbol,7,84,Avanzado,15622,5
+1580,CABA,67,Otro,Gimnasio,4,64,Intermedio,28777,5
+1581,Sur,50,Otro,Gimnasio,3,75,Principiante,20009,5
+1582,Norte,66,F,Yoga,5,47,Intermedio,19887,5
+1583,Norte,56,F,Running,4,72,Avanzado,12218,5
+1584,Centro,24,M,Yoga,2,67,Intermedio,16438,5
+1585,Sur,24,Otro,Gimnasio,4,48,Avanzado,31769,5
+1586,Norte,17,F,Yoga,1,67,Principiante,10910,4
+1587,Norte,45,Otro,Gimnasio,5,67,Avanzado,34706,5
+1588,Buenos Aires,20,Otro,Running,3,90,Intermedio,8289,5
+1589,Buenos Aires,42,Otro,Yoga,5,69,Avanzado,27834,5
+1590,CABA,56,Otro,Gimnasio,2,51,Intermedio,26125,5
+1591,Sur,23,F,Ciclismo,6,140,Avanzado,36351,5
+1592,Sur,66,Otro,Running,3,56,Principiante,6606,5
+1593,Buenos Aires,15,Otro,Ciclismo,4,125,Avanzado,44688,4
+1594,CABA,42,F,Yoga,3,32,Intermedio,14996,5
+1595,Centro,68,Otro,Natacion,1,41,Principiante,12887,5
+1596,Centro,31,M,Yoga,4,52,Avanzado,20093,5
+1597,Centro,61,F,Ciclismo,1,87,Principiante,17867,4
+1598,Centro,35,F,Natacion,5,55,Avanzado,26496,5
+1599,Norte,15,Otro,Gimnasio,2,71,Intermedio,25080,5
+1600,Buenos Aires,25,Otro,Running,5,77,Intermedio,11740,5
+1601,Buenos Aires,21,F,Gimnasio,4,51,Avanzado,30473,5
+1602,Norte,61,M,Yoga,3,66,Principiante,12879,5
+1603,Sur,63,Otro,Ciclismo,5,113,Intermedio,34604,5
+1604,Centro,12,F,Ciclismo,5,106,Avanzado,37921,5
+1605,Norte,31,M,Futbol,4,115,Intermedio,14607,5
+1606,Sur,13,M,Gimnasio,2,85,Intermedio,21652,5
+1607,Sur,32,M,Gimnasio,4,87,Avanzado,38255,5
+1608,CABA,26,F,Futbol,1,96,Principiante,8875,5
+1609,CABA,65,M,Natacion,5,45,Avanzado,25160,5
+1610,Centro,39,Otro,Natacion,4,52,Avanzado,26291,5
+1611,CABA,31,Otro,Futbol,2,62,Principiante,9294,5
+1612,CABA,65,Otro,Yoga,4,33,Intermedio,19132,5
+1613,Sur,40,Otro,Yoga,1,38,Principiante,,5
+1614,Centro,51,M,Ciclismo,5,84,Avanzado,44497,4
+1615,Norte,23,M,Natacion,2,36,Principiante,15073,4
+1616,CABA,39,Otro,Futbol,2,95,Principiante,9520,5
+1617,Sur,39,M,Running,6,43,Avanzado,15065,5
+1618,Norte,36,M,Yoga,3,67,Intermedio,19824,
+1619,Sur,36,F,Yoga,4,38,Intermedio,15251,5
+1620,Sur,20,Otro,Running,5,61,Intermedio,11652,5
+1621,Buenos Aires,19,M,Ciclismo,4,106,Avanzado,36790,5
+1622,CABA,46,F,Natacion,4,42,Intermedio,16455,5
+1623,Sur,48,F,Running,5,42,Avanzado,12080,5
+1624,Sur,12,Otro,Ciclismo,7,112,Avanzado,41934,5
+1625,Buenos Aires,16,M,Ciclismo,1,116,Principiante,17266,4
+1626,Centro,69,M,Futbol,6,68,Avanzado,17965,5
+1627,Sur,20,F,Natacion,7,60,Avanzado,25374,5
+1628,Centro,34,F,Yoga,3,36,Principiante,14294,5
+1629,Sur,60,F,Futbol,4,74,Avanzado,18789,5
+1630,Sur,41,M,Futbol,5,69,Intermedio,12887,5
+1631,Buenos Aires,13,Otro,Natacion,1,52,Principiante,14107,4
+1632,Centro,64,Otro,Natacion,6,30,Avanzado,28659,5
+1633,Norte,51,Otro,Futbol,5,81,Avanzado,18440,5
+1634,Sur,68,Otro,Natacion,5,42,Avanzado,28451,5
+1635,Norte,22,M,Ciclismo,3,113,Intermedio,26425,5
+1636,Norte,48,M,Running,4,46,Avanzado,13965,5
+1637,Norte,13,Otro,Ciclismo,6,119,Avanzado,32360,5
+1638,Buenos Aires,25,Otro,Running,3,42,Intermedio,11113,5
+1639,Centro,13,M,Futbol,4,105,Intermedio,12357,5
+1640,Norte,64,Otro,Ciclismo,2,144,Intermedio,29181,5
+1641,CABA,23,F,Running,2,60,Principiante,7348,5
+1642,Sur,25,M,Futbol,1,100,Principiante,12149,5
+1643,Norte,19,Otro,Futbol,3,90,Principiante,10524,5
+1644,CABA,21,Otro,Running,6,74,Avanzado,14223,5
+1645,Norte,55,F,Natacion,7,46,Avanzado,23561,5
+1646,Norte,22,Otro,Gimnasio,3,63,Principiante,17689,5
+1647,Sur,18,Otro,Gimnasio,4,65,Avanzado,38834,5
+1648,Buenos Aires,49,Otro,Natacion,7,40,Avanzado,22091,5
+1649,Norte,41,M,Futbol,3,103,Principiante,12371,5
+1650,Sur,50,F,Gimnasio,4,59,Avanzado,30631,5
+1651,Norte,32,F,Natacion,6,36,Avanzado,25369,5
+1652,Buenos Aires,64,M,Natacion,3,53,Intermedio,16872,5
+1653,Sur,56,M,Futbol,3,93,Principiante,10308,5
+1654,Buenos Aires,50,F,Yoga,1,40,Principiante,10626,5
+1655,Buenos Aires,43,Otro,Ciclismo,2,124,Intermedio,24500,5
+1656,Buenos Aires,59,M,Yoga,4,75,Avanzado,19311,5
+1657,Centro,17,F,Yoga,2,52,Intermedio,15799,5
+1658,CABA,43,Otro,Running,5,87,Avanzado,,5
+1659,Sur,35,M,Yoga,4,70,Intermedio,21419,5
+1660,CABA,57,M,Futbol,6,95,Avanzado,20264,5
+1661,Norte,31,F,Yoga,3,36,Intermedio,14898,5
+1662,Sur,65,F,Ciclismo,7,69,Avanzado,32971,5
+1663,Centro,12,Otro,Ciclismo,1,115,Principiante,21175,5
+1664,Centro,64,Otro,Running,1,85,Principiante,5877,5
+1665,Sur,17,M,Yoga,7,40,Avanzado,26937,5
+1666,Buenos Aires,57,F,Natacion,4,48,Intermedio,20060,5
+1667,CABA,63,Otro,Futbol,2,114,Intermedio,14264,5
+1668,Centro,52,F,Natacion,7,42,Avanzado,23375,5
+1669,Buenos Aires,64,Otro,Futbol,4,84,Intermedio,,5
+1670,CABA,26,F,Gimnasio,2,57,Principiante,19903,4
+1671,CABA,22,Otro,Natacion,4,55,Avanzado,24239,5
+1672,Sur,53,Otro,Futbol,5,115,Avanzado,19756,
+1673,Buenos Aires,19,F,Gimnasio,3,87,Intermedio,28816,4
+1674,Sur,24,F,Yoga,3,66,Principiante,13414,5
+1675,Buenos Aires,63,Otro,Natacion,2,46,Intermedio,19690,5
+1676,Sur,45,Otro,Yoga,5,43,Intermedio,17911,5
+1677,CABA,54,M,Ciclismo,2,118,Intermedio,33526,4
+1678,Centro,41,Otro,Ciclismo,2,104,Intermedio,26371,5
+1679,Sur,69,F,Natacion,1,40,Principiante,12445,5
+1680,Centro,40,Otro,Natacion,4,47,Avanzado,28826,5
+1681,Sur,45,F,Ciclismo,5,76,Avanzado,45268,5
+1682,Centro,51,F,Gimnasio,2,86,Intermedio,23474,
+1683,Norte,44,Otro,Yoga,5,72,Avanzado,25021,5
+1684,Sur,14,M,Natacion,6,32,Avanzado,30861,5
+1685,CABA,58,Otro,Gimnasio,1,71,Principiante,17780,4
+1686,Sur,22,M,Running,2,68,Intermedio,8583,4
+1687,Centro,69,Otro,Yoga,7,61,Avanzado,26737,5
+1688,CABA,27,M,Running,5,57,Intermedio,8878,5
+1689,Sur,38,F,Gimnasio,3,90,Principiante,18689,5
+1690,Centro,63,F,Futbol,4,120,Intermedio,15085,5
+1691,CABA,64,F,Gimnasio,5,56,Intermedio,20140,5
+1692,Centro,12,M,Yoga,3,50,Principiante,13637,5
+1693,Norte,14,M,Yoga,5,67,Intermedio,16044,5
+1694,Centro,41,F,Ciclismo,4,109,Intermedio,25039,5
+1695,Centro,24,M,Yoga,1,35,Principiante,13466,5
+1696,Sur,22,F,Running,1,62,Principiante,6475,5
+1697,Buenos Aires,27,M,Yoga,2,40,Principiante,11062,5
+1698,Centro,32,Otro,Running,5,34,Intermedio,11777,5
+1699,Norte,26,Otro,Yoga,3,44,Principiante,14188,5
+1700,Centro,46,Otro,Yoga,2,68,Principiante,14845,5
+1701,Centro,29,M,Futbol,5,103,Intermedio,13048,5
+1702,Buenos Aires,17,F,Running,3,78,Intermedio,10843,5
+1703,Norte,25,F,Ciclismo,5,88,Avanzado,33685,5
+1704,Centro,52,F,Natacion,2,48,Principiante,12491,5
+1705,CABA,42,F,Ciclismo,1,131,Principiante,21380,5
+1706,Sur,12,Otro,Ciclismo,3,116,Intermedio,31737,4
+1707,CABA,44,Otro,Yoga,2,75,Principiante,14319,5
+1708,CABA,12,M,Natacion,4,56,Avanzado,22771,5
+1709,Sur,48,Otro,Futbol,4,88,Avanzado,22219,
+1710,Norte,49,Otro,Natacion,4,36,Avanzado,24284,5
+1711,Sur,28,Otro,Yoga,3,45,Principiante,13433,5
+1712,Buenos Aires,20,Otro,Ciclismo,4,125,Avanzado,36995,4
+1713,CABA,12,M,Natacion,2,37,Intermedio,16990,5
+1714,Buenos Aires,26,Otro,Natacion,2,58,Intermedio,16981,5
+1715,Buenos Aires,13,F,Gimnasio,2,47,Principiante,19494,5
+1716,Sur,51,F,Yoga,4,57,Intermedio,19596,5
+1717,Norte,66,Otro,Yoga,5,44,Avanzado,23524,5
+1718,Buenos Aires,21,M,Ciclismo,5,133,Intermedio,33766,5
+1719,Sur,34,F,Running,7,57,Avanzado,13464,5
+1720,Sur,53,F,Gimnasio,2,58,Principiante,15580,5
+1721,Buenos Aires,42,M,Running,2,52,Principiante,6516,5
+1722,Buenos Aires,50,M,Natacion,2,41,Principiante,16290,5
+1723,Sur,56,M,Running,6,62,Avanzado,12543,5
+1724,Centro,35,F,Natacion,5,50,Avanzado,21512,5
+1725,Sur,16,F,Gimnasio,4,79,Intermedio,22821,5
+1726,Sur,19,M,Yoga,2,45,Intermedio,21522,4
+1727,Sur,70,F,Running,2,41,Intermedio,9294,5
+1728,Centro,30,Otro,Futbol,4,83,Intermedio,17434,5
+1729,Norte,58,M,Futbol,4,83,Intermedio,17172,5
+1730,Sur,12,F,Running,6,80,Avanzado,12388,5
+1731,Buenos Aires,52,M,Yoga,2,60,Principiante,14987,
+1732,Sur,68,M,Yoga,7,60,Avanzado,25713,5
+1733,Centro,54,F,Futbol,6,72,Avanzado,18658,5
+1734,Sur,15,M,Yoga,2,63,Principiante,10604,4
+1735,Norte,44,M,Running,3,75,Intermedio,8413,5
+1736,CABA,38,Otro,Futbol,4,63,Avanzado,16337,5
+1737,CABA,33,Otro,Ciclismo,7,98,Avanzado,37532,5
+1738,Buenos Aires,36,M,Ciclismo,3,72,Intermedio,32684,5
+1739,Buenos Aires,69,F,Yoga,2,40,Intermedio,17154,5
+1740,Sur,25,F,Yoga,4,66,Avanzado,25601,5
+1741,Sur,53,F,Futbol,5,90,Avanzado,21659,5
+1742,Buenos Aires,18,Otro,Ciclismo,1,150,Principiante,16850,5
+1743,Sur,66,Otro,Running,1,44,Principiante,6293,5
+1744,Buenos Aires,55,F,Gimnasio,3,56,Intermedio,20834,5
+1745,Sur,51,F,Running,5,83,Intermedio,8524,
+1746,Buenos Aires,41,M,Yoga,4,31,Intermedio,18697,5
+1747,CABA,28,F,Ciclismo,4,116,Intermedio,34107,5
+1748,CABA,21,F,Ciclismo,5,125,Avanzado,34244,5
+1749,CABA,54,Otro,Natacion,3,30,Intermedio,23150,5
+1750,Centro,47,M,Natacion,1,30,Principiante,14274,5
+1751,CABA,68,Otro,Futbol,2,84,Principiante,10652,5
+1752,Norte,29,F,Ciclismo,2,131,Principiante,20383,4
+1753,Centro,54,Otro,Natacion,2,42,Principiante,12124,4
+1754,CABA,57,F,Futbol,4,116,Intermedio,16004,5
+1755,Sur,46,F,Yoga,3,74,Intermedio,20444,5
+1756,Norte,44,Otro,Futbol,4,60,Avanzado,21705,
+1757,Centro,39,M,Futbol,4,83,Intermedio,14737,5
+1758,CABA,38,Otro,Gimnasio,6,90,Avanzado,29890,5
+1759,CABA,36,F,Gimnasio,2,58,Intermedio,28179,4
+1760,Sur,68,F,Running,4,72,Avanzado,12167,5
+1761,CABA,47,F,Yoga,4,67,Intermedio,15215,
+1762,Norte,12,M,Ciclismo,7,62,Avanzado,32585,5
+1763,Norte,31,M,Futbol,7,66,Avanzado,21734,5
+1764,Centro,41,M,Natacion,7,41,Avanzado,26704,5
+1765,Sur,32,F,Yoga,5,45,Avanzado,24914,5
+1766,Buenos Aires,70,M,Gimnasio,1,85,Principiante,14053,
+1767,CABA,70,M,Gimnasio,2,48,Principiante,20372,5
+1768,Buenos Aires,62,M,Running,2,36,Principiante,5970,5
+1769,CABA,36,Otro,Gimnasio,1,52,Principiante,17479,5
+1770,Buenos Aires,64,Otro,Natacion,5,47,Avanzado,27450,5
+1771,Buenos Aires,38,F,Futbol,3,62,Principiante,10147,5
+1772,Norte,41,Otro,Natacion,5,42,Avanzado,24783,5
+1773,CABA,29,M,Natacion,4,48,Avanzado,29869,5
+1774,Buenos Aires,43,Otro,Gimnasio,3,52,Intermedio,23082,5
+1775,Sur,44,Otro,Gimnasio,1,53,Principiante,18568,4
+1776,Buenos Aires,51,Otro,Futbol,4,75,Avanzado,17370,5
+1777,Centro,56,M,Futbol,3,108,Principiante,11322,5
+1778,Sur,27,M,Futbol,4,76,Avanzado,20909,5
+1779,Sur,20,F,Gimnasio,3,75,Principiante,17658,5
+1780,CABA,18,Otro,Yoga,7,38,Avanzado,28051,5
+1781,CABA,69,Otro,Yoga,4,35,Avanzado,23630,5
+1782,Norte,69,Otro,Futbol,7,73,Avanzado,18988,5
+1783,CABA,58,M,Gimnasio,2,55,Intermedio,22259,5
+1784,Centro,17,M,Gimnasio,2,70,Principiante,18709,4
+1785,Norte,58,F,Yoga,5,68,Intermedio,17221,5
+1786,Centro,61,Otro,Futbol,2,74,Intermedio,17876,5
+1787,Norte,69,M,Natacion,1,57,Principiante,14330,5
+1788,CABA,39,Otro,Natacion,6,47,Avanzado,27868,5
+1789,Norte,23,F,Ciclismo,3,147,Principiante,17909,5
+1790,CABA,15,M,Futbol,3,117,Principiante,8546,5
+1791,Centro,44,F,Natacion,2,53,Principiante,15733,5
+1792,CABA,27,M,Running,4,71,Intermedio,9581,5
+1793,CABA,36,M,Yoga,4,65,Avanzado,22847,5
+1794,Norte,53,F,Yoga,4,35,Intermedio,16672,5
+1795,CABA,24,Otro,Running,2,36,Intermedio,8993,5
+1796,Norte,23,Otro,Yoga,4,33,Avanzado,23985,4
+1797,Centro,20,F,Ciclismo,2,107,Principiante,24697,5
+1798,CABA,53,F,Ciclismo,6,81,Avanzado,31477,5
+1799,Sur,50,M,Running,2,45,Principiante,7124,5
+1800,Sur,28,Otro,Gimnasio,3,61,Principiante,20465,5
+1801,CABA,59,M,Yoga,5,71,Intermedio,17848,5
+1802,Buenos Aires,20,F,Ciclismo,7,89,Avanzado,35704,5
+1803,Sur,15,F,Ciclismo,1,96,Principiante,20488,5
+1804,CABA,39,Otro,Gimnasio,5,86,Avanzado,38590,5
+1805,Norte,67,F,Running,1,90,Principiante,8360,4
+1806,Centro,60,F,Natacion,3,35,Intermedio,23781,5
+1807,Centro,55,Otro,Futbol,2,118,Principiante,9684,4
+1808,Sur,43,Otro,Natacion,1,38,Principiante,16653,4
+1809,Centro,40,M,Yoga,2,47,Intermedio,17589,4
+1810,CABA,62,Otro,Gimnasio,2,51,Principiante,19226,5
+1811,Norte,13,F,Gimnasio,5,52,Intermedio,20834,5
+1812,CABA,66,F,Futbol,4,80,Avanzado,,5
+1813,Norte,36,Otro,Gimnasio,2,70,Principiante,16462,5
+1814,Norte,16,M,Futbol,6,69,Avanzado,16691,5
+1815,Norte,65,F,Running,4,86,Intermedio,11324,
+1816,Buenos Aires,54,Otro,Gimnasio,6,53,Avanzado,35091,5
+1817,Centro,18,Otro,Ciclismo,2,92,Principiante,17977,4
+1818,Buenos Aires,39,M,Natacion,3,34,Principiante,15518,5
+1819,Centro,52,Otro,Gimnasio,4,60,Avanzado,37919,4
+1820,Sur,34,F,Running,4,49,Intermedio,10272,5
+1821,CABA,44,Otro,Gimnasio,2,61,Intermedio,23121,5
+1822,Buenos Aires,33,M,Yoga,5,53,Avanzado,26395,
+1823,Sur,52,F,Ciclismo,3,75,Principiante,23020,4
+1824,Centro,54,M,Natacion,3,46,Intermedio,21136,5
+1825,Norte,18,Otro,Natacion,7,32,Avanzado,22991,5
+1826,Centro,23,Otro,Gimnasio,2,73,Intermedio,25139,5
+1827,Centro,24,F,Ciclismo,2,68,Intermedio,35779,4
+1828,Norte,65,M,Running,1,50,Principiante,7229,5
+1829,Sur,43,M,Gimnasio,2,78,Principiante,16653,5
+1830,Norte,41,Otro,Ciclismo,7,120,Avanzado,35787,5
+1831,Buenos Aires,32,M,Natacion,3,52,Principiante,16679,4
+1832,Centro,34,Otro,Ciclismo,3,146,Principiante,21463,5
+1833,Centro,32,M,Running,2,53,Intermedio,11811,5
+1834,Centro,14,M,Gimnasio,3,82,Principiante,20181,5
+1835,CABA,52,M,Natacion,1,55,Principiante,15481,4
+1836,Centro,49,Otro,Ciclismo,7,122,Avanzado,32778,5
+1837,Buenos Aires,52,F,Yoga,2,34,Principiante,11848,5
+1838,Norte,27,M,Gimnasio,2,58,Intermedio,20650,5
+1839,CABA,14,F,Futbol,3,110,Principiante,11397,5
+1840,Norte,41,M,Running,4,35,Avanzado,14921,5
+1841,Norte,19,Otro,Futbol,1,100,Principiante,12341,5
+1842,Sur,28,F,Yoga,2,30,Principiante,13458,5
+1843,Sur,48,Otro,Futbol,3,71,Principiante,8926,5
+1844,Sur,63,M,Natacion,4,56,Intermedio,17814,5
+1845,Buenos Aires,60,Otro,Ciclismo,1,72,Principiante,22130,5
+1846,CABA,58,F,Yoga,2,46,Principiante,12070,5
+1847,CABA,42,M,Futbol,4,72,Avanzado,18092,5
+1848,Sur,63,F,Ciclismo,2,90,Principiante,22096,5
+1849,Buenos Aires,70,M,Futbol,2,72,Intermedio,15635,5
+1850,Centro,49,Otro,Natacion,3,32,Intermedio,17047,
+1851,CABA,40,Otro,Gimnasio,4,63,Intermedio,25766,5
+1852,Centro,65,M,Ciclismo,2,73,Principiante,25172,5
+1853,Sur,28,Otro,Gimnasio,2,62,Intermedio,20194,5
+1854,CABA,13,Otro,Running,5,79,Avanzado,12681,5
+1855,Centro,50,F,Running,4,88,Intermedio,8731,5
+1856,Buenos Aires,27,Otro,Natacion,5,57,Intermedio,17778,5
+1857,Sur,49,Otro,Running,5,76,Avanzado,15334,5
+1858,Centro,29,F,Futbol,4,74,Intermedio,,5
+1859,Norte,45,M,Ciclismo,3,103,Principiante,24929,5
+1860,Sur,42,F,Futbol,1,119,Principiante,11110,5
+1861,Sur,19,F,Ciclismo,7,100,Avanzado,39792,5
+1862,CABA,65,Otro,Yoga,2,46,Intermedio,18340,5
+1863,Norte,38,F,Gimnasio,6,76,Avanzado,30535,5
+1864,Buenos Aires,62,Otro,Yoga,3,63,Principiante,13031,5
+1865,Norte,16,F,Gimnasio,7,82,Avanzado,29615,5
+1866,Buenos Aires,65,F,Yoga,3,75,Principiante,11466,5
+1867,Buenos Aires,31,M,Gimnasio,2,47,Principiante,19804,4
+1868,Norte,40,M,Gimnasio,5,77,Avanzado,26261,5
+1869,Norte,27,M,Futbol,2,88,Intermedio,15589,5
+1870,Sur,38,F,Gimnasio,2,47,Intermedio,23057,5
+1871,Buenos Aires,14,Otro,Futbol,7,73,Avanzado,20172,5
+1872,Norte,38,M,Running,2,44,Principiante,6211,5
+1873,Norte,29,M,Futbol,5,112,Avanzado,18053,5
+1874,CABA,45,M,Yoga,1,66,Principiante,13329,4
+1875,Buenos Aires,26,F,Running,7,82,Avanzado,15161,5
+1876,Centro,26,M,Gimnasio,2,54,Principiante,18032,5
+1877,Norte,61,M,Yoga,4,55,Intermedio,15429,5
+1878,Norte,54,M,Running,2,77,Intermedio,10445,5
+1879,CABA,69,F,Running,2,79,Principiante,7599,5
+1880,CABA,15,F,Ciclismo,5,76,Intermedio,35464,5
+1881,Buenos Aires,31,F,Yoga,6,46,Avanzado,18922,5
+1882,Centro,60,M,Ciclismo,3,129,Intermedio,30381,4
+1883,Sur,20,F,Running,4,66,Avanzado,11318,5
+1884,Centro,18,M,Futbol,6,87,Avanzado,16734,5
+1885,Sur,52,M,Yoga,5,52,Avanzado,,5
+1886,Sur,66,F,Ciclismo,6,68,Avanzado,46174,5
+1887,Buenos Aires,24,Otro,Futbol,5,78,Intermedio,17029,5
+1888,Sur,54,F,Ciclismo,3,99,Principiante,22911,5
+1889,CABA,17,Otro,Gimnasio,6,47,Avanzado,36798,5
+1890,CABA,42,F,Natacion,1,30,Principiante,14544,5
+1891,Sur,68,Otro,Gimnasio,7,83,Avanzado,30518,5
+1892,Centro,51,F,Natacion,1,39,Principiante,11976,5
+1893,Centro,62,Otro,Futbol,7,82,Avanzado,18304,5
+1894,Sur,37,Otro,Yoga,7,75,Avanzado,24713,5
+1895,Centro,49,M,Running,1,63,Principiante,7354,5
+1896,CABA,34,F,Yoga,5,41,Avanzado,22704,5
+1897,CABA,36,F,Yoga,2,65,Principiante,13365,5
+1898,Norte,41,Otro,Yoga,2,30,Principiante,,4
+1899,CABA,20,Otro,Yoga,2,64,Principiante,13642,5
+1900,CABA,35,Otro,Running,6,52,Avanzado,13239,5
+1901,Buenos Aires,47,M,Futbol,3,104,Principiante,11449,5
+1902,Buenos Aires,61,F,Futbol,7,81,Avanzado,17310,5
+1903,Centro,67,F,Gimnasio,4,84,Intermedio,21275,5
+1904,Buenos Aires,45,M,Ciclismo,4,67,Intermedio,,5
+1905,Centro,65,M,Natacion,6,45,Avanzado,27311,5
+1906,Buenos Aires,39,Otro,Ciclismo,2,102,Principiante,24124,5
+1907,Buenos Aires,28,F,Running,5,86,Avanzado,10979,5
+1908,Centro,40,F,Ciclismo,4,140,Avanzado,44107,5
+1909,Centro,70,M,Futbol,3,114,Intermedio,15916,5
+1910,Sur,39,M,Futbol,4,64,Intermedio,17169,5
+1911,Sur,12,F,Natacion,3,53,Intermedio,20628,5
+1912,CABA,26,M,Yoga,4,56,Avanzado,24327,
+1913,Centro,22,Otro,Natacion,3,52,Intermedio,23287,5
+1914,CABA,66,Otro,Running,3,46,Intermedio,8406,5
+1915,Norte,45,M,Gimnasio,1,67,Principiante,19078,
+1916,Sur,16,F,Natacion,3,34,Principiante,,5
+1917,Centro,25,M,Futbol,1,81,Principiante,9103,
+1918,Sur,17,F,Natacion,1,38,Principiante,12095,
+1919,Norte,38,Otro,Ciclismo,1,90,Principiante,20828,5
+1920,CABA,66,Otro,Natacion,4,55,Avanzado,21938,5
+1921,Norte,35,M,Ciclismo,6,114,Avanzado,39144,5
+1922,Buenos Aires,51,M,Futbol,2,82,Principiante,9118,4
+1923,CABA,38,M,Ciclismo,1,96,Principiante,18280,5
+1924,Buenos Aires,19,Otro,Natacion,4,32,Avanzado,21173,5
+1925,Norte,44,F,Yoga,6,48,Avanzado,24459,
+1926,Buenos Aires,29,F,Natacion,1,58,Principiante,16648,5
+1927,Centro,18,F,Natacion,7,43,Avanzado,,5
+1928,Sur,26,F,Yoga,5,60,Avanzado,20576,5
+1929,Centro,35,M,Natacion,4,43,Avanzado,23311,5
+1930,Sur,12,M,Yoga,3,61,Intermedio,19034,5
+1931,Norte,43,F,Yoga,3,48,Principiante,10935,5
+1932,Centro,69,M,Futbol,3,109,Principiante,10845,5
+1933,CABA,56,M,Ciclismo,1,60,Principiante,18037,5
+1934,Centro,23,Otro,Ciclismo,6,79,Avanzado,33972,
+1935,Norte,47,M,Futbol,1,106,Principiante,12217,4
+1936,Sur,28,Otro,Natacion,5,32,Avanzado,21088,5
+1937,Sur,19,F,Natacion,5,35,Avanzado,22567,5
+1938,CABA,35,Otro,Yoga,5,65,Avanzado,25006,5
+1939,CABA,22,F,Running,4,69,Avanzado,12779,5
+1940,Buenos Aires,52,F,Natacion,2,54,Intermedio,,5
+1941,CABA,49,Otro,Natacion,3,55,Principiante,11633,4
+1942,Norte,40,M,Gimnasio,5,73,Avanzado,33157,5
+1943,Sur,19,M,Natacion,2,48,Principiante,11557,4
+1944,CABA,49,Otro,Natacion,1,38,Principiante,14598,5
+1945,Buenos Aires,68,Otro,Gimnasio,3,78,Intermedio,28602,5
+1946,CABA,48,F,Natacion,7,34,Avanzado,28899,5
+1947,Norte,22,F,Running,3,53,Principiante,8337,4
+1948,CABA,57,F,Futbol,5,70,Intermedio,15392,5
+1949,Centro,46,Otro,Running,5,89,Intermedio,11086,5
+1950,Sur,30,Otro,Ciclismo,7,146,Avanzado,46749,
+1951,Sur,44,F,Natacion,3,49,Intermedio,19903,5
+1952,Centro,24,M,Ciclismo,3,130,Principiante,18252,5
+1953,Buenos Aires,20,Otro,Yoga,7,32,Avanzado,24363,5
+1954,Buenos Aires,16,F,Running,6,35,Avanzado,15221,5
+1955,Buenos Aires,53,M,Gimnasio,2,90,Intermedio,27881,4
+1956,Sur,20,Otro,Natacion,2,56,Principiante,12243,
+1957,CABA,24,Otro,Natacion,3,54,Intermedio,18000,5
+1958,Buenos Aires,28,F,Natacion,2,55,Principiante,16082,5
+1959,Centro,30,F,Yoga,6,62,Avanzado,25596,5
+1960,Sur,57,M,Yoga,2,58,Intermedio,16899,5
+1961,Sur,33,Otro,Gimnasio,3,78,Principiante,15465,5
+1962,Sur,63,Otro,Futbol,2,113,Intermedio,16543,5
+1963,Sur,59,Otro,Running,1,61,Principiante,7355,4
+1964,Centro,37,M,Gimnasio,2,65,Principiante,18765,4
+1965,Centro,18,M,Running,4,48,Avanzado,11938,5
+1966,Norte,56,Otro,Futbol,4,95,Avanzado,19421,5
+1967,Buenos Aires,19,Otro,Futbol,1,102,Principiante,12323,5
+1968,CABA,43,Otro,Futbol,7,75,Avanzado,23000,5
+1969,Buenos Aires,26,M,Gimnasio,2,71,Principiante,15205,4
+1970,Centro,66,M,Natacion,1,42,Principiante,16083,5
+1971,Buenos Aires,40,M,Gimnasio,7,54,Avanzado,37170,5
+1972,Buenos Aires,19,M,Gimnasio,6,65,Avanzado,26768,
+1973,Buenos Aires,37,F,Yoga,5,63,Intermedio,20759,5
+1974,CABA,33,M,Yoga,4,31,Intermedio,18498,5
+1975,Centro,44,F,Ciclismo,3,80,Intermedio,25106,5
+1976,Buenos Aires,66,M,Natacion,2,32,Intermedio,17497,4
+1977,Sur,62,Otro,Futbol,1,75,Principiante,11073,5
+1978,Centro,20,F,Running,5,85,Intermedio,9175,5
+1979,Sur,35,Otro,Gimnasio,6,47,Avanzado,31087,5
+1980,Buenos Aires,66,M,Yoga,3,69,Principiante,14598,5
+1981,CABA,53,F,Natacion,4,58,Intermedio,21133,5
+1982,Buenos Aires,14,F,Ciclismo,7,124,Avanzado,45151,5
+1983,CABA,16,M,Ciclismo,3,66,Intermedio,35944,4
+1984,Buenos Aires,34,Otro,Gimnasio,5,54,Intermedio,24233,5
+1985,Sur,33,F,Ciclismo,5,150,Avanzado,43943,5
+1986,Norte,68,F,Running,1,64,Principiante,7221,5
+1987,Buenos Aires,35,F,Gimnasio,4,79,Avanzado,27702,5
+1988,CABA,43,M,Running,3,73,Principiante,6067,5
+1989,CABA,28,Otro,Ciclismo,5,73,Intermedio,24785,5
+1990,Buenos Aires,59,Otro,Running,3,63,Intermedio,11271,5
+1991,Sur,26,F,Running,5,64,Avanzado,11473,5
+1992,CABA,46,M,Yoga,6,51,Avanzado,23054,5
+1993,CABA,50,F,Yoga,3,44,Principiante,11712,5
+1994,CABA,61,Otro,Yoga,3,57,Principiante,14357,5
+1995,CABA,20,M,Gimnasio,5,51,Intermedio,,5
+1996,Sur,56,F,Yoga,2,64,Intermedio,15079,5
+1997,Centro,18,Otro,Running,6,36,Avanzado,13029,5
+1998,Sur,55,M,Running,6,84,Avanzado,11847,5
+1999,Buenos Aires,13,F,Natacion,5,50,Intermedio,23817,5
+2000,CABA,30,Otro,Running,1,73,Principiante,6209,5
+2001,CABA,46,M,Running,7,59,Avanzado,14061,5
+2002,Centro,55,F,Ciclismo,3,132,Principiante,22247,5
+2003,Buenos Aires,58,Otro,Yoga,2,58,Intermedio,16117,5
+2004,Buenos Aires,62,M,Futbol,3,75,Principiante,11301,
+2005,Sur,69,F,Running,4,60,Intermedio,8422,5
+2006,Buenos Aires,36,F,Gimnasio,3,62,Intermedio,20395,4
+2007,Sur,47,F,Gimnasio,7,66,Avanzado,37931,5
+2008,CABA,66,F,Yoga,7,43,Avanzado,22719,5
+2009,Buenos Aires,40,M,Futbol,5,71,Avanzado,18824,5
+2010,Sur,69,M,Gimnasio,2,86,Principiante,17880,5
+2011,Buenos Aires,65,M,Gimnasio,3,67,Principiante,20303,5
+2012,Buenos Aires,25,M,Gimnasio,4,69,Intermedio,21477,5
+2013,CABA,28,M,Ciclismo,3,71,Principiante,17277,5
+2014,CABA,41,F,Gimnasio,1,52,Principiante,17984,5
+2015,Norte,43,F,Running,4,47,Avanzado,11029,5
+2016,Norte,21,F,Ciclismo,3,111,Principiante,18021,5
+2017,Buenos Aires,18,F,Gimnasio,7,76,Avanzado,30984,5
+2018,Buenos Aires,41,F,Running,2,82,Intermedio,9515,5
+2019,Buenos Aires,69,Otro,Gimnasio,1,86,Principiante,15872,5
+2020,Centro,14,M,Gimnasio,5,70,Avanzado,38015,5
+2021,Norte,49,Otro,Natacion,7,32,Avanzado,26430,5
+2022,Centro,46,M,Running,4,63,Avanzado,12532,5
+2023,CABA,17,F,Yoga,1,49,Principiante,,5
+2024,Buenos Aires,50,Otro,Futbol,4,96,Avanzado,19353,5
+2025,CABA,27,M,Yoga,1,72,Principiante,10343,5
+2026,CABA,22,M,Futbol,4,67,Intermedio,14075,5
+2027,CABA,29,M,Natacion,5,60,Avanzado,29950,5
+2028,CABA,40,Otro,Futbol,2,65,Principiante,8620,5
+2029,Norte,46,Otro,Yoga,7,75,Avanzado,23078,5
+2030,Centro,60,F,Gimnasio,3,69,Principiante,16822,5
+2031,Norte,24,Otro,Yoga,1,35,Principiante,14832,5
+2032,Buenos Aires,45,F,Ciclismo,1,85,Principiante,24570,5
+2033,Buenos Aires,42,F,Futbol,3,63,Principiante,9554,5
+2034,Centro,41,Otro,Natacion,1,43,Principiante,13996,5
+2035,Norte,64,F,Gimnasio,1,67,Principiante,20672,5
+2036,Norte,50,M,Running,7,44,Avanzado,13433,5
+2037,CABA,22,Otro,Ciclismo,5,83,Avanzado,38241,5
+2038,Norte,31,Otro,Running,6,37,Avanzado,11516,5
+2039,Norte,42,M,Running,4,78,Intermedio,8314,5
+2040,Centro,38,F,Futbol,3,81,Intermedio,13849,5
+2041,Centro,63,Otro,Yoga,4,47,Intermedio,21434,5
+2042,Centro,16,Otro,Yoga,4,31,Avanzado,21866,5
+2043,Norte,29,Otro,Natacion,1,30,Principiante,13712,4
+2044,Sur,36,F,Ciclismo,3,121,Principiante,22403,5
+2045,Norte,45,Otro,Ciclismo,1,94,Principiante,17314,4
+2046,Norte,27,Otro,Futbol,3,68,Principiante,12481,5
+2047,Norte,27,M,Gimnasio,4,77,Intermedio,28762,5
+2048,Norte,48,M,Yoga,5,30,Intermedio,17238,5
+2049,Centro,15,F,Futbol,4,60,Intermedio,14159,5
+2050,Buenos Aires,41,F,Running,2,79,Intermedio,9221,5
+2051,Buenos Aires,57,M,Futbol,5,63,Intermedio,16707,5
+2052,Sur,42,M,Gimnasio,2,71,Principiante,15997,5
+2053,Sur,12,F,Natacion,2,58,Intermedio,20189,5
+2054,Norte,48,F,Natacion,5,37,Avanzado,30794,5
+2055,Buenos Aires,12,Otro,Gimnasio,5,65,Avanzado,34325,5
+2056,Norte,22,Otro,Natacion,2,35,Principiante,12523,5
+2057,Centro,21,M,Ciclismo,5,123,Avanzado,44283,5
+2058,CABA,13,M,Ciclismo,2,87,Principiante,16938,5
+2059,Centro,59,M,Yoga,5,74,Intermedio,19989,5
+2060,CABA,61,Otro,Natacion,2,37,Principiante,13351,5
+2061,Buenos Aires,18,M,Gimnasio,6,79,Avanzado,,5
+2062,Centro,12,Otro,Ciclismo,4,106,Avanzado,43863,5
+2063,Sur,43,F,Gimnasio,5,50,Intermedio,26593,5
+2064,Centro,60,M,Ciclismo,4,90,Avanzado,44831,5
+2065,CABA,36,M,Natacion,5,32,Intermedio,22918,5
+2066,CABA,53,F,Futbol,3,83,Intermedio,14113,4
+2067,Sur,55,F,Natacion,5,32,Avanzado,25300,5
+2068,Centro,17,F,Gimnasio,3,52,Intermedio,27067,5
+2069,Buenos Aires,20,Otro,Futbol,1,94,Principiante,10004,5
+2070,Norte,25,Otro,Gimnasio,2,54,Intermedio,27347,5
+2071,Sur,60,M,Futbol,2,70,Principiante,10109,5
+2072,Buenos Aires,23,Otro,Yoga,7,61,Avanzado,20848,5
+2073,Buenos Aires,43,Otro,Natacion,1,49,Principiante,11549,5
+2074,Centro,27,Otro,Futbol,5,120,Avanzado,18788,5
+2075,Centro,40,M,Gimnasio,4,57,Avanzado,31795,5
+2076,CABA,54,Otro,Ciclismo,7,76,Avanzado,39499,5
+2077,Sur,42,Otro,Natacion,2,56,Principiante,15073,5
+2078,CABA,58,Otro,Natacion,6,56,Avanzado,28475,5
+2079,Sur,43,F,Ciclismo,5,76,Avanzado,36675,5
+2080,Centro,28,Otro,Yoga,3,35,Principiante,14082,5
+2081,Norte,33,M,Running,5,54,Intermedio,10583,5
+2082,Buenos Aires,36,M,Ciclismo,3,84,Intermedio,34049,5
+2083,Buenos Aires,38,M,Natacion,5,39,Avanzado,24350,5
+2084,Norte,70,F,Natacion,6,60,Avanzado,29126,5
+2085,Sur,41,F,Futbol,7,114,Avanzado,18704,5
+2086,Buenos Aires,57,F,Ciclismo,5,123,Intermedio,30807,5
+2087,CABA,18,Otro,Gimnasio,3,69,Intermedio,21263,5
+2088,Sur,65,M,Yoga,1,61,Principiante,10396,5
+2089,Buenos Aires,18,M,Gimnasio,3,71,Principiante,17779,5
+2090,Buenos Aires,67,Otro,Gimnasio,5,73,Intermedio,21363,5
+2091,Buenos Aires,15,M,Natacion,4,45,Intermedio,22971,5
+2092,Buenos Aires,49,M,Yoga,2,32,Principiante,10480,5
+2093,Sur,29,M,Running,2,87,Principiante,6309,5
+2094,Norte,18,M,Running,1,71,Principiante,6396,5
+2095,Buenos Aires,46,F,Futbol,7,97,Avanzado,19750,5
+2096,Buenos Aires,29,F,Yoga,4,30,Intermedio,18095,5
+2097,Norte,23,M,Futbol,1,85,Principiante,10803,5
+2098,Centro,53,M,Running,4,31,Intermedio,10707,5
+2099,Buenos Aires,45,M,Yoga,3,40,Intermedio,20635,
+2100,Sur,41,F,Gimnasio,3,73,Principiante,14412,5
+2101,Centro,19,M,Yoga,6,60,Avanzado,27173,5
+2102,Norte,48,F,Ciclismo,2,71,Intermedio,24367,5
+2103,Norte,65,M,Natacion,3,51,Principiante,12528,5
+2104,Buenos Aires,16,F,Gimnasio,5,89,Avanzado,32743,5
+2105,Norte,38,F,Running,3,80,Principiante,7159,5
+2106,Sur,70,Otro,Yoga,5,44,Intermedio,16596,5
+2107,Centro,19,F,Futbol,3,107,Intermedio,17240,5
+2108,Norte,17,F,Running,2,48,Intermedio,10936,5
+2109,Sur,30,M,Yoga,6,70,Avanzado,22053,5
+2110,Sur,12,F,Gimnasio,1,90,Principiante,14051,5
+2111,Centro,35,M,Running,5,69,Intermedio,8446,5
+2112,Centro,54,Otro,Gimnasio,4,66,Intermedio,20479,5
+2113,CABA,54,F,Natacion,3,36,Principiante,13083,5
+2114,Buenos Aires,35,M,Natacion,3,33,Intermedio,20820,4
+2115,Buenos Aires,30,F,Natacion,5,41,Intermedio,22982,5
+2116,Norte,70,M,Running,1,64,Principiante,7202,5
+2117,Centro,66,M,Ciclismo,4,134,Intermedio,30600,5
+2118,Centro,49,M,Futbol,3,87,Principiante,8612,5
+2119,Norte,66,F,Running,3,33,Principiante,7050,5
+2120,Buenos Aires,59,F,Gimnasio,3,88,Principiante,,4
+2121,Centro,57,Otro,Yoga,1,59,Principiante,,5
+2122,Centro,29,M,Yoga,3,34,Principiante,10370,5
+2123,CABA,44,Otro,Natacion,7,50,Avanzado,21220,5
+2124,Buenos Aires,24,M,Running,4,39,Intermedio,9385,5
+2125,Sur,40,Otro,Gimnasio,4,59,Intermedio,28429,5
+2126,Norte,59,F,Ciclismo,4,113,Intermedio,28236,5
+2127,Buenos Aires,33,M,Ciclismo,7,134,Avanzado,45414,5
+2128,CABA,23,Otro,Running,3,50,Principiante,6135,5
+2129,Centro,29,M,Running,4,79,Avanzado,10688,5
+2130,CABA,29,M,Running,5,33,Intermedio,9637,5
+2131,Norte,54,Otro,Futbol,5,119,Intermedio,15278,
+2132,CABA,59,F,Yoga,1,72,Principiante,13702,4
+2133,Sur,37,M,Gimnasio,1,67,Principiante,17041,5
+2134,CABA,58,Otro,Running,3,50,Intermedio,11100,5
+2135,Centro,25,F,Ciclismo,6,129,Avanzado,44976,5
+2136,Buenos Aires,51,Otro,Natacion,6,30,Avanzado,21193,5
+2137,Sur,22,Otro,Natacion,2,41,Principiante,14323,5
+2138,Norte,54,M,Futbol,1,77,Principiante,9736,5
+2139,CABA,56,Otro,Natacion,6,34,Avanzado,22071,5
+2140,CABA,42,F,Running,4,86,Avanzado,11476,5
+2141,Sur,63,M,Futbol,5,77,Intermedio,15230,5
+2142,Centro,26,F,Ciclismo,5,113,Avanzado,35249,
+2143,Sur,16,F,Futbol,2,74,Principiante,11499,5
+2144,Buenos Aires,67,Otro,Futbol,3,87,Principiante,8665,5
+2145,Norte,21,F,Natacion,1,38,Principiante,14389,5
+2146,Centro,70,F,Ciclismo,4,123,Avanzado,39112,5
+2147,Centro,40,M,Yoga,4,66,Intermedio,15573,5
+2148,Norte,16,F,Futbol,2,107,Principiante,10499,5
+2149,CABA,42,M,Natacion,4,44,Avanzado,30957,5
+2150,Buenos Aires,13,F,Ciclismo,6,76,Avanzado,37786,5
+2151,Sur,37,M,Gimnasio,3,61,Intermedio,20424,5
+2152,Norte,45,F,Natacion,3,47,Intermedio,23382,
+2153,Sur,53,M,Natacion,2,59,Intermedio,22200,5
+2154,Sur,20,F,Running,5,44,Avanzado,10581,5
+2155,Centro,50,Otro,Futbol,2,119,Intermedio,13588,5
+2156,Buenos Aires,21,M,Gimnasio,5,81,Avanzado,33205,5
+2157,Buenos Aires,40,F,Futbol,7,83,Avanzado,17551,5
+2158,Buenos Aires,51,F,Natacion,1,60,Principiante,15784,4
+2159,CABA,47,F,Yoga,1,45,Principiante,11192,5
+2160,Norte,70,F,Ciclismo,2,146,Intermedio,32555,4
+2161,Centro,51,Otro,Ciclismo,5,148,Intermedio,34874,5
+2162,Norte,60,Otro,Yoga,3,73,Principiante,10383,
+2163,Sur,41,F,Yoga,5,71,Avanzado,26741,5
+2164,Norte,22,Otro,Futbol,2,100,Intermedio,14072,5
+2165,Sur,43,M,Gimnasio,4,83,Intermedio,26950,5
+2166,Norte,50,F,Futbol,2,104,Intermedio,12759,5
+2167,Buenos Aires,19,F,Ciclismo,1,65,Principiante,25116,4
+2168,Buenos Aires,31,Otro,Yoga,6,45,Avanzado,22179,5
+2169,Norte,62,M,Natacion,7,43,Avanzado,24779,5
+2170,Centro,54,Otro,Futbol,5,107,Avanzado,19123,5
+2171,Sur,38,F,Gimnasio,5,90,Avanzado,28471,5
+2172,CABA,31,M,Ciclismo,5,77,Avanzado,32271,5
+2173,Centro,56,Otro,Futbol,2,104,Principiante,11355,5
+2174,CABA,32,M,Yoga,6,74,Avanzado,23773,5
+2175,Buenos Aires,15,F,Gimnasio,2,63,Intermedio,22106,4
+2176,Sur,40,F,Yoga,3,57,Principiante,10247,5
+2177,Norte,64,Otro,Running,4,80,Avanzado,12376,5
+2178,Norte,51,F,Running,5,80,Intermedio,11513,5
+2179,Norte,12,F,Futbol,2,108,Intermedio,17665,4
+2180,Sur,39,Otro,Gimnasio,4,60,Intermedio,22393,5
+2181,Centro,44,F,Futbol,3,97,Intermedio,15477,5
+2182,Sur,28,F,Natacion,4,37,Intermedio,19431,5
+2183,Sur,34,F,Running,3,40,Intermedio,8817,
+2184,Buenos Aires,61,Otro,Natacion,2,58,Intermedio,19560,5
+2185,Centro,64,Otro,Yoga,2,73,Principiante,12348,5
+2186,Norte,41,F,Natacion,7,31,Avanzado,28588,5
+2187,Sur,45,Otro,Running,7,42,Avanzado,10870,5
+2188,Sur,54,Otro,Yoga,5,32,Avanzado,24980,5
+2189,Centro,25,F,Running,5,70,Intermedio,9796,5
+2190,Sur,44,Otro,Running,7,68,Avanzado,13752,5
+2191,Buenos Aires,60,F,Gimnasio,1,58,Principiante,16173,5
+2192,CABA,60,F,Ciclismo,3,117,Intermedio,32768,4
+2193,Buenos Aires,36,M,Futbol,6,107,Avanzado,18434,5
+2194,Buenos Aires,59,Otro,Natacion,3,48,Principiante,14361,4
+2195,Norte,25,Otro,Running,5,70,Avanzado,10800,5
+2196,Sur,18,Otro,Natacion,2,31,Intermedio,22954,5
+2197,Norte,39,Otro,Yoga,5,67,Intermedio,17095,5
+2198,Sur,37,F,Natacion,3,39,Principiante,15780,5
+2199,CABA,31,Otro,Futbol,4,82,Avanzado,17168,5
+2200,Buenos Aires,41,Otro,Running,2,79,Intermedio,,5
+2201,CABA,69,F,Gimnasio,2,53,Principiante,19240,5
+2202,Centro,66,F,Ciclismo,3,110,Intermedio,28632,4
+2203,Sur,37,M,Futbol,5,97,Avanzado,20315,5
+2204,Sur,36,F,Ciclismo,4,70,Avanzado,42603,5
+2205,Sur,56,Otro,Natacion,4,51,Avanzado,22715,5
+2206,Buenos Aires,16,F,Ciclismo,2,122,Principiante,22516,4
+2207,Norte,51,Otro,Ciclismo,5,128,Avanzado,36368,4
+2208,Centro,70,M,Running,4,47,Avanzado,12345,5
+2209,Buenos Aires,53,F,Ciclismo,2,150,Principiante,19680,5
+2210,Centro,64,F,Futbol,3,93,Principiante,9487,5
+2211,Centro,22,Otro,Futbol,1,105,Principiante,11986,5
+2212,Centro,31,M,Futbol,5,63,Intermedio,16915,5
+2213,Centro,29,F,Natacion,3,32,Intermedio,20683,5
+2214,Norte,46,F,Futbol,3,98,Intermedio,13390,5
+2215,Sur,57,Otro,Futbol,2,99,Intermedio,15820,5
+2216,Centro,57,Otro,Yoga,6,48,Avanzado,18784,5
+2217,Sur,68,M,Futbol,5,83,Intermedio,12869,5
+2218,CABA,31,Otro,Ciclismo,6,128,Avanzado,34893,5
+2219,Norte,58,F,Natacion,6,60,Avanzado,27285,5
+2220,CABA,50,M,Yoga,2,73,Intermedio,15200,5
+2221,CABA,41,M,Futbol,3,72,Intermedio,17189,4
+2222,Buenos Aires,28,F,Gimnasio,1,85,Principiante,17097,4
+2223,CABA,14,Otro,Futbol,5,73,Intermedio,13712,5
+2224,Norte,64,M,Gimnasio,5,63,Avanzado,30472,4
+2225,Sur,27,Otro,Running,1,74,Principiante,7074,4
+2226,Sur,54,M,Running,7,34,Avanzado,14742,5
+2227,Centro,23,M,Gimnasio,4,83,Avanzado,38407,5
+2228,Norte,31,Otro,Futbol,7,114,Avanzado,21475,5
+2229,Norte,34,F,Futbol,4,82,Avanzado,17269,
+2230,Sur,33,F,Gimnasio,7,82,Avanzado,30174,5
+2231,CABA,49,Otro,Natacion,4,53,Avanzado,30190,5
+2232,Norte,16,F,Running,3,72,Intermedio,10798,5
+2233,CABA,34,M,Natacion,4,47,Avanzado,25254,5
+2234,Centro,13,F,Running,4,88,Intermedio,11373,5
+2235,Centro,24,M,Gimnasio,7,65,Avanzado,38856,5
+2236,Norte,70,F,Running,3,64,Principiante,7191,5
+2237,CABA,67,F,Gimnasio,3,69,Intermedio,22126,5
+2238,Norte,56,Otro,Yoga,4,45,Avanzado,23753,5
+2239,Buenos Aires,23,F,Ciclismo,7,110,Avanzado,39025,5
+2240,Buenos Aires,45,Otro,Running,3,68,Principiante,6465,5
+2241,CABA,21,F,Natacion,7,37,Avanzado,24486,5
+2242,Norte,67,F,Yoga,4,50,Intermedio,14978,5
+2243,Norte,16,F,Futbol,6,72,Avanzado,19986,5
+2244,CABA,29,Otro,Gimnasio,4,84,Avanzado,29267,4
+2245,Centro,15,F,Yoga,7,68,Avanzado,22209,5
+2246,Buenos Aires,14,M,Yoga,7,71,Avanzado,20182,5
+2247,Buenos Aires,32,F,Ciclismo,2,148,Principiante,23154,5
+2248,CABA,38,F,Yoga,7,60,Avanzado,21875,5
+2249,CABA,39,M,Futbol,5,97,Intermedio,16853,5
+2250,CABA,16,F,Yoga,4,34,Avanzado,22506,5
+2251,Centro,58,F,Futbol,2,116,Intermedio,17662,4
+2252,CABA,20,M,Ciclismo,4,78,Avanzado,32329,5
+2253,Buenos Aires,43,Otro,Gimnasio,4,87,Avanzado,34909,5
+2254,Centro,22,Otro,Running,4,79,Avanzado,15438,5
+2255,CABA,24,F,Futbol,4,86,Intermedio,17445,5
+2256,Buenos Aires,33,M,Running,4,43,Avanzado,14198,5
+2257,Norte,16,Otro,Running,3,56,Intermedio,9134,5
+2258,Buenos Aires,64,Otro,Gimnasio,1,61,Principiante,20104,5
+2259,Buenos Aires,65,F,Ciclismo,2,118,Intermedio,35388,5
+2260,Buenos Aires,41,Otro,Running,3,70,Principiante,6389,5
+2261,Sur,59,M,Yoga,4,52,Intermedio,18829,5
+2262,Sur,25,M,Gimnasio,1,70,Principiante,15689,4
+2263,Buenos Aires,53,Otro,Yoga,7,61,Avanzado,21712,5
+2264,CABA,33,M,Running,1,45,Principiante,,5
+2265,CABA,60,F,Futbol,3,66,Intermedio,16598,5
+2266,Sur,64,Otro,Natacion,2,49,Principiante,13250,5
+2267,Sur,42,Otro,Yoga,1,70,Principiante,15041,4
+2268,CABA,13,M,Ciclismo,3,106,Principiante,17620,5
+2269,Norte,44,Otro,Futbol,4,110,Avanzado,16421,5
+2270,Centro,63,Otro,Ciclismo,5,142,Intermedio,29574,5
+2271,Buenos Aires,62,F,Yoga,1,74,Principiante,10839,5
+2272,Buenos Aires,42,F,Yoga,7,39,Avanzado,21944,5
+2273,CABA,46,F,Futbol,7,111,Avanzado,16640,
+2274,Buenos Aires,61,M,Futbol,1,83,Principiante,9234,5
+2275,CABA,32,M,Gimnasio,3,84,Intermedio,20577,4
+2276,Centro,38,M,Futbol,3,73,Principiante,10183,5
+2277,Norte,69,F,Yoga,3,63,Principiante,11584,5
+2278,CABA,47,F,Yoga,4,45,Avanzado,27614,5
+2279,CABA,36,F,Futbol,3,63,Intermedio,14544,5
+2280,Centro,40,F,Futbol,3,90,Intermedio,13888,5
+2281,Sur,14,Otro,Gimnasio,5,68,Intermedio,26492,5
+2282,Centro,26,M,Gimnasio,1,57,Principiante,17772,5
+2283,Centro,64,F,Gimnasio,2,55,Intermedio,26128,5
+2284,Norte,48,M,Futbol,7,91,Avanzado,,5
+2285,Buenos Aires,22,M,Gimnasio,6,59,Avanzado,29744,5
+2286,CABA,49,F,Futbol,4,79,Avanzado,20971,5
+2287,Sur,61,Otro,Running,1,64,Principiante,6382,5
+2288,Sur,66,F,Natacion,7,35,Avanzado,27674,
+2289,Sur,56,M,Yoga,3,74,Principiante,10321,5
+2290,Sur,24,M,Natacion,7,34,Avanzado,26555,5
+2291,Sur,54,Otro,Ciclismo,7,120,Avanzado,,5
+2292,Buenos Aires,13,M,Natacion,1,34,Principiante,13203,5
+2293,Centro,64,Otro,Ciclismo,7,70,Avanzado,44739,5
+2294,Sur,60,F,Running,3,79,Principiante,7663,5
+2295,Centro,19,Otro,Futbol,4,114,Avanzado,16938,5
+2296,Sur,27,M,Yoga,7,30,Avanzado,20631,5
+2297,Sur,45,Otro,Running,2,40,Principiante,5689,5
+2298,Buenos Aires,22,Otro,Yoga,7,30,Avanzado,23909,5
+2299,Centro,12,M,Ciclismo,7,133,Avanzado,33096,5
+2300,Buenos Aires,22,M,Natacion,6,57,Avanzado,27475,5
+2301,Norte,28,M,Gimnasio,2,85,Principiante,20318,5
+2302,CABA,47,F,Yoga,5,63,Avanzado,19099,5
+2303,Norte,29,Otro,Futbol,3,117,Intermedio,13180,5
+2304,Buenos Aires,23,M,Natacion,2,47,Principiante,16784,
+2305,CABA,49,Otro,Gimnasio,3,85,Principiante,19935,5
+2306,Sur,59,Otro,Natacion,6,35,Avanzado,23830,5
+2307,Centro,47,F,Gimnasio,2,59,Principiante,14741,5
+2308,Norte,24,Otro,Yoga,4,65,Avanzado,21834,5
+2309,Buenos Aires,18,F,Natacion,5,36,Avanzado,23067,5
+2310,CABA,65,F,Natacion,7,42,Avanzado,30865,5
+2311,CABA,68,F,Ciclismo,4,68,Intermedio,25990,5
+2312,Norte,65,F,Natacion,4,54,Intermedio,18714,5
+2313,Buenos Aires,29,M,Gimnasio,7,68,Avanzado,36090,5
+2314,Norte,34,Otro,Futbol,1,90,Principiante,9865,5
+2315,CABA,15,M,Futbol,1,110,Principiante,,5
+2316,Norte,64,F,Yoga,4,52,Avanzado,26566,5
+2317,CABA,66,F,Gimnasio,4,56,Intermedio,27185,5
+2318,Centro,64,F,Running,7,38,Avanzado,13482,5
+2319,Centro,46,M,Running,5,42,Intermedio,11311,5
+2320,Centro,53,F,Running,5,35,Intermedio,9993,5
+2321,Buenos Aires,34,M,Gimnasio,6,80,Avanzado,27730,5
+2322,Buenos Aires,61,Otro,Gimnasio,2,72,Principiante,16356,5
+2323,CABA,53,Otro,Futbol,3,62,Intermedio,13702,5
+2324,Centro,28,Otro,Ciclismo,1,74,Principiante,24133,5
+2325,Norte,21,F,Running,6,53,Avanzado,15084,5
+2326,Centro,58,Otro,Ciclismo,3,127,Intermedio,25523,5
+2327,Buenos Aires,40,Otro,Ciclismo,4,132,Intermedio,31740,4
+2328,Buenos Aires,67,M,Running,5,39,Avanzado,14656,5
+2329,Norte,20,F,Futbol,2,78,Intermedio,15041,4
+2330,Buenos Aires,25,M,Yoga,4,45,Intermedio,16072,5
+2331,Sur,62,F,Ciclismo,5,94,Intermedio,30895,5
+2332,Centro,18,M,Natacion,4,30,Avanzado,27867,5
+2333,Sur,66,M,Ciclismo,1,73,Principiante,22044,5
+2334,CABA,17,M,Natacion,3,43,Principiante,11947,5
+2335,Norte,39,F,Running,2,47,Principiante,6924,5
+2336,CABA,57,M,Yoga,5,54,Intermedio,15941,5
+2337,Sur,47,F,Yoga,2,34,Principiante,14204,5
+2338,Centro,53,M,Ciclismo,4,133,Intermedio,35169,5
+2339,Centro,69,F,Futbol,4,85,Avanzado,22409,5
+2340,Buenos Aires,53,M,Natacion,3,60,Principiante,16211,5
+2341,Norte,54,Otro,Natacion,6,38,Avanzado,24699,5
+2342,Buenos Aires,45,F,Futbol,6,60,Avanzado,18045,5
+2343,Buenos Aires,48,M,Yoga,6,65,Avanzado,25304,
+2344,CABA,48,F,Natacion,3,41,Intermedio,23074,5
+2345,Norte,31,M,Running,3,47,Intermedio,11949,5
+2346,Centro,44,M,Ciclismo,4,142,Avanzado,31281,5
+2347,Norte,64,Otro,Yoga,3,46,Principiante,15061,5
+2348,Centro,47,M,Running,3,71,Principiante,8385,5
+2349,Norte,13,F,Ciclismo,5,110,Avanzado,34967,5
+2350,Norte,49,M,Natacion,4,40,Avanzado,25139,5
+2351,CABA,23,Otro,Ciclismo,6,88,Avanzado,31367,5
+2352,Norte,49,M,Running,2,52,Intermedio,9276,5
+2353,Centro,50,M,Yoga,5,66,Intermedio,15190,5
+2354,Centro,28,M,Running,3,70,Intermedio,10607,5
+2355,CABA,61,Otro,Ciclismo,4,143,Intermedio,24288,5
+2356,Sur,26,M,Gimnasio,1,64,Principiante,15924,4
+2357,Sur,41,F,Running,3,60,Intermedio,8588,5
+2358,CABA,43,Otro,Natacion,5,47,Avanzado,23217,5
+2359,Sur,24,F,Running,6,64,Avanzado,12758,5
+2360,Centro,36,Otro,Running,3,32,Intermedio,11260,5
+2361,Buenos Aires,22,F,Gimnasio,5,52,Avanzado,31962,5
+2362,CABA,40,F,Running,4,47,Avanzado,12602,5
+2363,Buenos Aires,27,Otro,Gimnasio,3,76,Principiante,17363,5
+2364,Sur,19,Otro,Yoga,6,39,Avanzado,21261,5
+2365,Norte,29,F,Yoga,5,62,Avanzado,25259,5
+2366,Sur,46,F,Yoga,5,50,Intermedio,17636,5
+2367,Buenos Aires,35,M,Ciclismo,6,95,Avanzado,32662,5
+2368,Buenos Aires,28,F,Ciclismo,5,70,Avanzado,45824,5
+2369,CABA,70,Otro,Gimnasio,6,46,Avanzado,26548,5
+2370,CABA,21,F,Running,7,62,Avanzado,13112,5
+2371,CABA,20,Otro,Natacion,3,48,Intermedio,21941,5
+2372,Buenos Aires,34,Otro,Ciclismo,1,87,Principiante,23829,4
+2373,Sur,40,Otro,Futbol,5,83,Intermedio,15517,5
+2374,Norte,16,F,Gimnasio,2,72,Principiante,18003,5
+2375,Sur,26,Otro,Futbol,4,61,Avanzado,21676,5
+2376,Norte,34,Otro,Gimnasio,5,77,Avanzado,37812,4
+2377,Centro,22,Otro,Ciclismo,2,63,Intermedio,27896,5
+2378,Sur,47,M,Natacion,4,33,Intermedio,17299,5
+2379,Centro,69,M,Gimnasio,5,73,Intermedio,20915,5
+2380,Sur,38,F,Gimnasio,4,50,Avanzado,32700,5
+2381,Norte,37,Otro,Natacion,5,51,Intermedio,22872,5
+2382,CABA,56,M,Natacion,3,34,Principiante,11355,5
+2383,Buenos Aires,23,M,Futbol,4,81,Avanzado,23344,5
+2384,Centro,14,M,Running,3,54,Principiante,7179,5
+2385,Norte,65,M,Gimnasio,7,61,Avanzado,33118,5
+2386,Sur,55,Otro,Running,1,80,Principiante,6956,5
+2387,Norte,37,F,Running,3,90,Principiante,8089,5
+2388,Sur,13,Otro,Gimnasio,2,83,Intermedio,23033,5
+2389,Norte,40,F,Futbol,3,95,Intermedio,16971,5
+2390,Centro,70,F,Ciclismo,4,100,Intermedio,29364,5
+2391,CABA,62,Otro,Gimnasio,2,69,Intermedio,28471,5
+2392,Buenos Aires,22,F,Yoga,7,35,Avanzado,25010,5
+2393,Sur,44,M,Natacion,3,47,Intermedio,16405,5
+2394,Centro,24,M,Running,3,56,Principiante,5760,5
+2395,Norte,26,F,Yoga,3,36,Intermedio,16222,5
+2396,Centro,21,M,Gimnasio,3,48,Principiante,15453,5
+2397,CABA,19,F,Gimnasio,5,45,Avanzado,28024,5
+2398,Sur,58,F,Running,3,41,Principiante,,
+2399,Sur,29,Otro,Gimnasio,7,86,Avanzado,37180,5
+2400,CABA,56,Otro,Yoga,3,42,Intermedio,19752,5
+2401,Buenos Aires,22,Otro,Yoga,4,54,Avanzado,22195,5
+2402,Sur,31,F,Yoga,4,53,Avanzado,26050,5
+2403,Centro,27,Otro,Gimnasio,4,83,Intermedio,28348,5
+2404,Buenos Aires,42,Otro,Gimnasio,2,49,Intermedio,20794,5
+2405,Buenos Aires,52,Otro,Gimnasio,6,75,Avanzado,33284,5
+2406,Sur,59,Otro,Ciclismo,3,109,Intermedio,33466,5
+2407,CABA,52,F,Futbol,7,95,Avanzado,18580,5
+2408,CABA,19,M,Running,5,88,Intermedio,9467,5
+2409,CABA,19,Otro,Futbol,5,73,Avanzado,19383,5
+2410,Norte,60,Otro,Running,3,77,Intermedio,9690,5
+2411,Sur,62,F,Natacion,6,59,Avanzado,28084,5
+2412,Sur,25,Otro,Ciclismo,5,108,Intermedio,27924,5
+2413,CABA,32,F,Ciclismo,4,144,Avanzado,41130,5
+2414,Centro,67,F,Yoga,7,57,Avanzado,26154,5
+2415,Sur,16,Otro,Gimnasio,5,87,Avanzado,37275,5
+2416,Buenos Aires,36,M,Ciclismo,2,97,Principiante,19560,5
+2417,Centro,44,M,Natacion,3,37,Principiante,16310,5
+2418,Centro,63,M,Running,2,70,Principiante,5789,5
+2419,Buenos Aires,69,F,Gimnasio,1,52,Principiante,20133,5
+2420,Norte,67,F,Running,1,65,Principiante,6354,5
+2421,Centro,18,M,Running,3,49,Principiante,6015,5
+2422,CABA,28,F,Natacion,4,51,Avanzado,31039,5
+2423,Sur,34,F,Gimnasio,3,85,Principiante,15761,
+2424,Sur,41,F,Running,3,52,Principiante,6217,5
+2425,Buenos Aires,42,M,Yoga,5,75,Avanzado,24942,5
+2426,CABA,23,F,Running,1,84,Principiante,8363,5
+2427,Sur,23,M,Natacion,4,47,Avanzado,22698,5
+2428,CABA,34,M,Gimnasio,4,85,Avanzado,26590,5
+2429,CABA,16,F,Futbol,5,98,Intermedio,15236,5
+2430,Norte,30,F,Yoga,1,36,Principiante,13742,5
+2431,Buenos Aires,12,M,Running,4,40,Intermedio,8080,5
+2432,Buenos Aires,52,M,Natacion,5,34,Intermedio,16109,5
+2433,Centro,49,M,Gimnasio,5,60,Avanzado,34726,5
+2434,Centro,64,Otro,Yoga,4,66,Intermedio,16233,5
+2435,Sur,67,M,Natacion,5,50,Avanzado,27932,5
+2436,Sur,34,Otro,Natacion,3,36,Principiante,14461,5
+2437,Centro,66,Otro,Yoga,6,52,Avanzado,20413,5
+2438,CABA,56,Otro,Futbol,2,81,Principiante,9737,5
+2439,Sur,22,M,Yoga,1,68,Principiante,11783,5
+2440,CABA,59,Otro,Ciclismo,1,62,Principiante,20966,5
+2441,Centro,15,Otro,Yoga,3,41,Intermedio,19296,4
+2442,Centro,58,Otro,Ciclismo,2,73,Principiante,23249,4
+2443,Centro,17,M,Running,4,81,Avanzado,12668,5
+2444,Centro,70,F,Ciclismo,2,142,Intermedio,34379,5
+2445,Buenos Aires,28,M,Ciclismo,2,108,Intermedio,29049,4
+2446,Buenos Aires,34,M,Futbol,6,81,Avanzado,22371,5
+2447,CABA,65,F,Yoga,2,45,Principiante,14751,5
+2448,Norte,21,Otro,Gimnasio,2,71,Principiante,20276,5
+2449,Buenos Aires,17,M,Ciclismo,6,61,Avanzado,32831,5
+2450,Buenos Aires,40,F,Yoga,6,38,Avanzado,19578,
+2451,Sur,65,M,Natacion,5,49,Intermedio,21552,5
+2452,Buenos Aires,41,M,Natacion,2,43,Principiante,,5
+2453,Centro,35,F,Gimnasio,3,84,Intermedio,27547,5
+2454,Norte,60,F,Yoga,2,74,Principiante,14068,5
+2455,Buenos Aires,30,M,Ciclismo,3,147,Principiante,23965,5
+2456,Sur,43,Otro,Ciclismo,3,147,Principiante,19842,5
+2457,Buenos Aires,20,M,Running,1,31,Principiante,,4
+2458,Sur,53,F,Futbol,3,64,Principiante,9812,5
+2459,Buenos Aires,68,M,Ciclismo,3,116,Principiante,17957,5
+2460,Sur,39,Otro,Futbol,1,84,Principiante,9047,5
+2461,Centro,33,M,Natacion,5,44,Intermedio,23615,5
+2462,Norte,52,F,Yoga,1,53,Principiante,13380,4
+2463,Centro,12,F,Futbol,5,83,Intermedio,13321,5
+2464,Sur,53,F,Ciclismo,2,103,Intermedio,35798,
+2465,CABA,31,M,Yoga,3,51,Intermedio,21543,5
+2466,CABA,18,Otro,Yoga,2,53,Principiante,14909,4
+2467,Norte,29,Otro,Yoga,7,48,Avanzado,22482,5
+2468,Buenos Aires,43,M,Gimnasio,1,86,Principiante,14012,5
+2469,Centro,64,M,Ciclismo,5,107,Avanzado,46487,4
+2470,Norte,31,F,Futbol,3,99,Principiante,11806,5
+2471,Norte,42,F,Futbol,1,106,Principiante,8797,
+2472,Sur,33,M,Natacion,4,60,Intermedio,19729,5
+2473,Centro,37,M,Gimnasio,4,55,Intermedio,29847,
+2474,Sur,68,Otro,Gimnasio,5,51,Intermedio,29199,5
+2475,Sur,56,F,Ciclismo,1,106,Principiante,22386,4
+2476,Centro,60,Otro,Running,1,66,Principiante,8185,5
+2477,Sur,66,F,Yoga,3,46,Principiante,11245,5
+2478,Buenos Aires,51,Otro,Futbol,2,107,Principiante,11737,5
+2479,CABA,30,F,Natacion,3,44,Intermedio,16900,5
+2480,CABA,53,F,Ciclismo,5,150,Intermedio,32727,5
+2481,CABA,58,F,Ciclismo,6,117,Avanzado,43357,5
+2482,Centro,23,Otro,Yoga,2,72,Principiante,11794,5
+2483,CABA,52,Otro,Ciclismo,4,93,Intermedio,28959,5
+2484,Sur,64,Otro,Futbol,2,101,Intermedio,12712,5
+2485,Norte,39,F,Running,5,43,Avanzado,11936,5
+2486,Norte,12,F,Running,3,59,Principiante,5864,5
+2487,Buenos Aires,48,M,Futbol,5,119,Intermedio,17689,5
+2488,Norte,34,M,Yoga,4,42,Intermedio,20244,5
+2489,Centro,53,F,Running,3,76,Principiante,7475,5
+2490,CABA,27,Otro,Natacion,5,59,Avanzado,30178,5
+2491,Sur,42,M,Gimnasio,4,57,Avanzado,31054,5
+2492,CABA,56,F,Futbol,1,101,Principiante,9374,4
+2493,Buenos Aires,52,Otro,Ciclismo,2,82,Intermedio,,4
+2494,Sur,22,F,Gimnasio,1,55,Principiante,14034,5
+2495,Norte,35,F,Yoga,2,34,Principiante,11163,5
+2496,Norte,34,F,Yoga,6,53,Avanzado,27167,5
+2497,Sur,66,Otro,Running,4,47,Intermedio,10196,5
+2498,Norte,39,F,Running,4,56,Intermedio,11234,5
+2499,CABA,22,M,Gimnasio,7,73,Avanzado,35950,5
+2500,Buenos Aires,54,M,Gimnasio,5,54,Intermedio,27498,5
